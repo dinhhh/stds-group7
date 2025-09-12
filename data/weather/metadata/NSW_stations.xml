@@ -1,0 +1,1082 @@
+<div class="optgroup" data-group="NSW">
+	<div class="option" data-selectable="" data-value="72000">
+		<span class="stationName">Adelong (Tumut St)</span>
+		<span class="stationId">72000</span>
+	</div>
+	<div class="option" data-selectable="" data-value="68241">
+		<span class="stationName">Albion Park (Shellharbour Airport)</span>
+		<span class="stationId">68241</span>
+	</div>
+	<div class="option" data-selectable="" data-value="72146">
+		<span class="stationName">Albury Airport</span>
+		<span class="stationId">72146</span>
+	</div>
+	<div class="option" data-selectable="" data-value="72160">
+		<span class="stationName">Albury Airport Aws</span>
+		<span class="stationId">72160</span>
+	</div>
+	<div class="option" data-selectable="" data-value="72059">
+		<span class="stationName">Albury Grammar School</span>
+		<span class="stationId">72059</span>
+	</div>
+	<div class="option" data-selectable="" data-value="72097">
+		<span class="stationName">Albury Pumping Station</span>
+		<span class="stationId">72097</span>
+	</div>
+	<div class="option" data-selectable="" data-value="58131">
+		<span class="stationName">Alstonville Tropical Fruit Research Stat</span>
+		<span class="stationId">58131</span>
+	</div>
+	<div class="option" data-selectable="" data-value="74000">
+		<span class="stationName">Ardlethan Post Office</span>
+		<span class="stationId">74000</span>
+	</div>
+	<div class="option" data-selectable="" data-value="56002">
+		<span class="stationName">Armidale (Radio Station 2ad)</span>
+		<span class="stationId">56002</span>
+	</div>
+	<div class="option" data-selectable="" data-value="56037">
+		<span class="stationName">Armidale (Tree Group Nursery)</span>
+		<span class="stationId">56037</span>
+	</div>
+	<div class="option" data-selectable="" data-value="56238">
+		<span class="stationName">Armidale Airport Aws</span>
+		<span class="stationId">56238</span>
+	</div>
+	<div class="option" data-selectable="" data-value="67108">
+		<span class="stationName">Badgerys Creek Aws</span>
+		<span class="stationId">67108</span>
+	</div>
+	<div class="option" data-selectable="" data-value="67068">
+		<span class="stationName">Badgerys Creek Mcmasters F.Stn</span>
+		<span class="stationId">67068</span>
+	</div>
+	<div class="option" data-selectable="" data-value="58198">
+		<span class="stationName">Ballina Airport Aws</span>
+		<span class="stationId">58198</span>
+	</div>
+	<div class="option" data-selectable="" data-value="49002">
+		<span class="stationName">Balranald (Rsl)</span>
+		<span class="stationId">49002</span>
+	</div>
+	<div class="option" data-selectable="" data-value="66137">
+		<span class="stationName">Bankstown Airport Aws</span>
+		<span class="stationId">66137</span>
+	</div>
+	<div class="option" data-selectable="" data-value="53002">
+		<span class="stationName">Baradine Forestry</span>
+		<span class="stationId">53002</span>
+	</div>
+	<div class="option" data-selectable="" data-value="54003">
+		<span class="stationName">Barraba (Clifton Lane)</span>
+		<span class="stationId">54003</span>
+	</div>
+	<div class="option" data-selectable="" data-value="69134">
+		<span class="stationName">Batemans Bay (Catalina Country Club)</span>
+		<span class="stationId">69134</span>
+	</div>
+	<div class="option" data-selectable="" data-value="63005">
+		<span class="stationName">Bathurst Agricultural Station</span>
+		<span class="stationId">63005</span>
+	</div>
+	<div class="option" data-selectable="" data-value="63291">
+		<span class="stationName">Bathurst Airport Aws</span>
+		<span class="stationId">63291</span>
+	</div>
+	<div class="option" data-selectable="" data-value="63004">
+		<span class="stationName">Bathurst Gaol</span>
+		<span class="stationId">63004</span>
+	</div>
+	<div class="option" data-selectable="" data-value="69002">
+		<span class="stationName">Bega (Newtown Road)</span>
+		<span class="stationId">69002</span>
+	</div>
+	<div class="option" data-selectable="" data-value="69139">
+		<span class="stationName">Bega Aws</span>
+		<span class="stationId">69139</span>
+	</div>
+	<div class="option" data-selectable="" data-value="68228">
+		<span class="stationName">Bellambi Aws</span>
+		<span class="stationId">68228</span>
+	</div>
+	<div class="option" data-selectable="" data-value="60000">
+		<span class="stationName">Bellangry State Forest 524</span>
+		<span class="stationId">60000</span>
+	</div>
+	<div class="option" data-selectable="" data-value="59094">
+		<span class="stationName">Bellingen (The Observatory)</span>
+		<span class="stationId">59094</span>
+	</div>
+	<div class="option" data-selectable="" data-value="59001">
+		<span class="stationName">Bellingen Post Office</span>
+		<span class="stationId">59001</span>
+	</div>
+	<div class="option" data-selectable="" data-value="70316">
+		<span class="stationName">Bendora Dam</span>
+		<span class="stationId">70316</span>
+	</div>
+	<div class="option" data-selectable="" data-value="74009">
+		<span class="stationName">Berrigan Post Office</span>
+		<span class="stationId">74009</span>
+	</div>
+	<div class="option" data-selectable="" data-value="54004">
+		<span class="stationName">Bingara Post Office</span>
+		<span class="stationId">54004</span>
+	</div>
+	<div class="option" data-selectable="" data-value="63087">
+		<span class="stationName">Black Springs Forestry</span>
+		<span class="stationId">63087</span>
+	</div>
+	<div class="option" data-selectable="" data-value="63010">
+		<span class="stationName">Blayney Post Office</span>
+		<span class="stationId">63010</span>
+	</div>
+	<div class="option" data-selectable="" data-value="70005">
+		<span class="stationName">Bombala (Therry Street)</span>
+		<span class="stationId">70005</span>
+	</div>
+	<div class="option" data-selectable="" data-value="70328">
+		<span class="stationName">Bombala Aws</span>
+		<span class="stationId">70328</span>
+	</div>
+	<div class="option" data-selectable="" data-value="56041">
+		<span class="stationName">Bonshaw (Monkstadt)</span>
+		<span class="stationId">56041</span>
+	</div>
+	<div class="option" data-selectable="" data-value="70220">
+		<span class="stationName">Boorowa Post Office</span>
+		<span class="stationId">70220</span>
+	</div>
+	<div class="option" data-selectable="" data-value="48239">
+		<span class="stationName">Bourke Airport</span>
+		<span class="stationId">48239</span>
+	</div>
+	<div class="option" data-selectable="" data-value="48245">
+		<span class="stationName">Bourke Airport Aws</span>
+		<span class="stationId">48245</span>
+	</div>
+	<div class="option" data-selectable="" data-value="48013">
+		<span class="stationName">Bourke Post Office</span>
+		<span class="stationId">48013</span>
+	</div>
+	<div class="option" data-selectable="" data-value="68102">
+		<span class="stationName">Bowral (Parry Drive)</span>
+		<span class="stationId">68102</span>
+	</div>
+	<div class="option" data-selectable="" data-value="68005">
+		<span class="stationName">Bowral Post Office</span>
+		<span class="stationId">68005</span>
+	</div>
+	<div class="option" data-selectable="" data-value="69010">
+		<span class="stationName">Braidwood (Monkittee Street)</span>
+		<span class="stationId">69010</span>
+	</div>
+	<div class="option" data-selectable="" data-value="69132">
+		<span class="stationName">Braidwood Racecourse Aws</span>
+		<span class="stationId">69132</span>
+	</div>
+	<div class="option" data-selectable="" data-value="48015">
+		<span class="stationName">Brewarrina Hospital</span>
+		<span class="stationId">48015</span>
+	</div>
+	<div class="option" data-selectable="" data-value="58065">
+		<span class="stationName">Broadwater Sugar Mill</span>
+		<span class="stationId">58065</span>
+	</div>
+	<div class="option" data-selectable="" data-value="47007">
+		<span class="stationName">Broken Hill (Patton Street)</span>
+		<span class="stationId">47007</span>
+	</div>
+	<div class="option" data-selectable="" data-value="47031">
+		<span class="stationName">Broken Hill (Stephens Creek Reservoir)</span>
+		<span class="stationId">47031</span>
+	</div>
+	<div class="option" data-selectable="" data-value="47048">
+		<span class="stationName">Broken Hill Airport Aws</span>
+		<span class="stationId">47048</span>
+	</div>
+	<div class="option" data-selectable="" data-value="47102">
+		<span class="stationName">Broken Hill Rfds</span>
+		<span class="stationId">47102</span>
+	</div>
+	<div class="option" data-selectable="" data-value="72009">
+		<span class="stationName">Brookfield Forest Station</span>
+		<span class="stationId">72009</span>
+	</div>
+	<div class="option" data-selectable="" data-value="59004">
+		<span class="stationName">Brooklana (Bobo Nursery)</span>
+		<span class="stationId">59004</span>
+	</div>
+	<div class="option" data-selectable="" data-value="56006">
+		<span class="stationName">Bundarra Post Office</span>
+		<span class="stationId">56006</span>
+	</div>
+	<div class="option" data-selectable="" data-value="73007">
+		<span class="stationName">Burrinjuck Dam</span>
+		<span class="stationId">73007</span>
+	</div>
+	<div class="option" data-selectable="" data-value="58216">
+		<span class="stationName">Byron Bay (Cape Byron Aws)</span>
+		<span class="stationId">58216</span>
+	</div>
+	<div class="option" data-selectable="" data-value="58009">
+		<span class="stationName">Byron Bay (Cape Byron Lighthouse)</span>
+		<span class="stationId">58009</span>
+	</div>
+	<div class="option" data-selectable="" data-value="71030">
+		<span class="stationName">Cabramurra Smhea</span>
+		<span class="stationId">71030</span>
+	</div>
+	<div class="option" data-selectable="" data-value="72091">
+		<span class="stationName">Cabramurra Smhea</span>
+		<span class="stationId">72091</span>
+	</div>
+	<div class="option" data-selectable="" data-value="72161">
+		<span class="stationName">Cabramurra Smhea Aws</span>
+		<span class="stationId">72161</span>
+	</div>
+	<div class="option" data-selectable="" data-value="68192">
+		<span class="stationName">Camden Airport Aws</span>
+		<span class="stationId">68192</span>
+	</div>
+	<div class="option" data-selectable="" data-value="61008">
+		<span class="stationName">Campbells Hill</span>
+		<span class="stationId">61008</span>
+	</div>
+	<div class="option" data-selectable="" data-value="68081">
+		<span class="stationName">Campbelltown Swimming Centre</span>
+		<span class="stationId">68081</span>
+	</div>
+	<div class="option" data-selectable="" data-value="70014">
+		<span class="stationName">Canberra Airport Comparison</span>
+		<span class="stationId">70014</span>
+	</div>
+	<div class="option" data-selectable="" data-value="70282">
+		<span class="stationName">Canberra City</span>
+		<span class="stationId">70282</span>
+	</div>
+	<div class="option" data-selectable="" data-value="70015">
+		<span class="stationName">Canberra Forestry</span>
+		<span class="stationId">70015</span>
+	</div>
+	<div class="option" data-selectable="" data-value="65006">
+		<span class="stationName">Canowindra (Canowindra Street)</span>
+		<span class="stationId">65006</span>
+	</div>
+	<div class="option" data-selectable="" data-value="66194">
+		<span class="stationName">Canterbury Racecourse Aws</span>
+		<span class="stationId">66194</span>
+	</div>
+	<div class="option" data-selectable="" data-value="72013">
+		<span class="stationName">Carabost Forest Headquarters</span>
+		<span class="stationId">72013</span>
+	</div>
+	<div class="option" data-selectable="" data-value="72014">
+		<span class="stationName">Carabost State Forest 2</span>
+		<span class="stationId">72014</span>
+	</div>
+	<div class="option" data-selectable="" data-value="63019">
+		<span class="stationName">Carcoar</span>
+		<span class="stationId">63019</span>
+	</div>
+	<div class="option" data-selectable="" data-value="63216">
+		<span class="stationName">Carcoar (Icely Street)</span>
+		<span class="stationId">63216</span>
+	</div>
+	<div class="option" data-selectable="" data-value="58063">
+		<span class="stationName">Casino Airport</span>
+		<span class="stationId">58063</span>
+	</div>
+	<div class="option" data-selectable="" data-value="58208">
+		<span class="stationName">Casino Airport Aws</span>
+		<span class="stationId">58208</span>
+	</div>
+	<div class="option" data-selectable="" data-value="62009">
+		<span class="stationName">Cassilis (Dalkeith)</span>
+		<span class="stationId">62009</span>
+	</div>
+	<div class="option" data-selectable="" data-value="62005">
+		<span class="stationName">Cassilis Post Office</span>
+		<span class="stationId">62005</span>
+	</div>
+	<div class="option" data-selectable="" data-value="66160">
+		<span class="stationName">Centennial Park</span>
+		<span class="stationId">66160</span>
+	</div>
+	<div class="option" data-selectable="" data-value="61242">
+		<span class="stationName">Cessnock (Nulkaba)</span>
+		<span class="stationId">61242</span>
+	</div>
+	<div class="option" data-selectable="" data-value="61260">
+		<span class="stationName">Cessnock Airport Aws</span>
+		<span class="stationId">61260</span>
+	</div>
+	<div class="option" data-selectable="" data-value="61009">
+		<span class="stationName">Cessnock Post Office</span>
+		<span class="stationId">61009</span>
+	</div>
+	<div class="option" data-selectable="" data-value="71003">
+		<span class="stationName">Charlotte Pass (Kosciusko Chalet)</span>
+		<span class="stationId">71003</span>
+	</div>
+	<div class="option" data-selectable="" data-value="59008">
+		<span class="stationName">Clouds Creek State Forest</span>
+		<span class="stationId">59008</span>
+	</div>
+	<div class="option" data-selectable="" data-value="48237">
+		<span class="stationName">Cobar Airport Aws</span>
+		<span class="stationId">48237</span>
+	</div>
+	<div class="option" data-selectable="" data-value="48027">
+		<span class="stationName">Cobar Mo</span>
+		<span class="stationId">48027</span>
+	</div>
+	<div class="option" data-selectable="" data-value="48030">
+		<span class="stationName">Cobar Post Office</span>
+		<span class="stationId">48030</span>
+	</div>
+	<div class="option" data-selectable="" data-value="59040">
+		<span class="stationName">Coffs Harbour Mo</span>
+		<span class="stationId">59040</span>
+	</div>
+	<div class="option" data-selectable="" data-value="48031">
+		<span class="stationName">Collarenebri (Albert St)</span>
+		<span class="stationId">48031</span>
+	</div>
+	<div class="option" data-selectable="" data-value="50052">
+		<span class="stationName">Condobolin Ag Research Stn</span>
+		<span class="stationId">50052</span>
+	</div>
+	<div class="option" data-selectable="" data-value="50137">
+		<span class="stationName">Condobolin Airport Aws</span>
+		<span class="stationId">50137</span>
+	</div>
+	<div class="option" data-selectable="" data-value="50014">
+		<span class="stationName">Condobolin Retirement Village</span>
+		<span class="stationId">50014</span>
+	</div>
+	<div class="option" data-selectable="" data-value="50102">
+		<span class="stationName">Condobolin Soil Conservation</span>
+		<span class="stationId">50102</span>
+	</div>
+	<div class="option" data-selectable="" data-value="58013">
+		<span class="stationName">Condong Sugar Mill</span>
+		<span class="stationId">58013</span>
+	</div>
+	<div class="option" data-selectable="" data-value="64025">
+		<span class="stationName">Coolah (Binnia St)</span>
+		<span class="stationId">64025</span>
+	</div>
+	<div class="option" data-selectable="" data-value="60009">
+		<span class="stationName">Coolongalook State Forest</span>
+		<span class="stationId">60009</span>
+	</div>
+	<div class="option" data-selectable="" data-value="70217">
+		<span class="stationName">Cooma Airport Aws</span>
+		<span class="stationId">70217</span>
+	</div>
+	<div class="option" data-selectable="" data-value="70258">
+		<span class="stationName">Cooma North Geringa Avenue</span>
+		<span class="stationId">70258</span>
+	</div>
+	<div class="option" data-selectable="" data-value="70094">
+		<span class="stationName">Cooma North Smhec</span>
+		<span class="stationId">70094</span>
+	</div>
+	<div class="option" data-selectable="" data-value="70278">
+		<span class="stationName">Cooma Visitors Centre</span>
+		<span class="stationId">70278</span>
+	</div>
+	<div class="option" data-selectable="" data-value="64008">
+		<span class="stationName">Coonabarabran (Showgrounds)</span>
+		<span class="stationId">64008</span>
+	</div>
+	<div class="option" data-selectable="" data-value="64017">
+		<span class="stationName">Coonabarabran Airport Aws</span>
+		<span class="stationId">64017</span>
+	</div>
+	<div class="option" data-selectable="" data-value="51161">
+		<span class="stationName">Coonamble Airport Aws</span>
+		<span class="stationId">51161</span>
+	</div>
+	<div class="option" data-selectable="" data-value="51010">
+		<span class="stationName">Coonamble Comparison</span>
+		<span class="stationId">51010</span>
+	</div>
+	<div class="option" data-selectable="" data-value="73142">
+		<span class="stationName">Cootamundra Airport</span>
+		<span class="stationId">73142</span>
+	</div>
+	<div class="option" data-selectable="" data-value="73009">
+		<span class="stationName">Cootamundra Post Office</span>
+		<span class="stationId">73009</span>
+	</div>
+	<div class="option" data-selectable="" data-value="70317">
+		<span class="stationName">Corin Dam</span>
+		<span class="stationId">70317</span>
+	</div>
+	<div class="option" data-selectable="" data-value="74034">
+		<span class="stationName">Corowa Airport</span>
+		<span class="stationId">74034</span>
+	</div>
+	<div class="option" data-selectable="" data-value="65091">
+		<span class="stationName">Cowra Airport Comparison</span>
+		<span class="stationId">65091</span>
+	</div>
+	<div class="option" data-selectable="" data-value="63021">
+		<span class="stationName">Cowra Post Office</span>
+		<span class="stationId">63021</span>
+	</div>
+	<div class="option" data-selectable="" data-value="63023">
+		<span class="stationName">Cowra Research Centre (Evans St)</span>
+		<span class="stationId">63023</span>
+	</div>
+	<div class="option" data-selectable="" data-value="70326">
+		<span class="stationName">Craigie (Bondi Forest Lodge)</span>
+		<span class="stationId">70326</span>
+	</div>
+	<div class="option" data-selectable="" data-value="70025">
+		<span class="stationName">Crookwell Post Office</span>
+		<span class="stationId">70025</span>
+	</div>
+	<div class="option" data-selectable="" data-value="56008">
+		<span class="stationName">Deepwater Post Office</span>
+		<span class="stationId">56008</span>
+	</div>
+	<div class="option" data-selectable="" data-value="74128">
+		<span class="stationName">Deniliquin (Visitor Information Centre)</span>
+		<span class="stationId">74128</span>
+	</div>
+	<div class="option" data-selectable="" data-value="74258">
+		<span class="stationName">Deniliquin Airport Aws</span>
+		<span class="stationId">74258</span>
+	</div>
+	<div class="option" data-selectable="" data-value="74039">
+		<span class="stationName">Deniliquin Falkiner Memorial</span>
+		<span class="stationId">74039</span>
+	</div>
+	<div class="option" data-selectable="" data-value="59140">
+		<span class="stationName">Dorrigo (Old Coramba Rd)</span>
+		<span class="stationId">59140</span>
+	</div>
+	<div class="option" data-selectable="" data-value="60041">
+		<span class="stationName">Doyles River State Forest</span>
+		<span class="stationId">60041</span>
+	</div>
+	<div class="option" data-selectable="" data-value="65012">
+		<span class="stationName">Dubbo (Darling Street)</span>
+		<span class="stationId">65012</span>
+	</div>
+	<div class="option" data-selectable="" data-value="65070">
+		<span class="stationName">Dubbo Airport Aws</span>
+		<span class="stationId">65070</span>
+	</div>
+	<div class="option" data-selectable="" data-value="65037">
+		<span class="stationName">Dubbo State Forest</span>
+		<span class="stationId">65037</span>
+	</div>
+	<div class="option" data-selectable="" data-value="64009">
+		<span class="stationName">Dunedoo Post Office</span>
+		<span class="stationId">64009</span>
+	</div>
+	<div class="option" data-selectable="" data-value="61017">
+		<span class="stationName">Dungog Post Office</span>
+		<span class="stationId">61017</span>
+	</div>
+	<div class="option" data-selectable="" data-value="61034">
+		<span class="stationName">East Maitland Bowling Club</span>
+		<span class="stationId">61034</span>
+	</div>
+	<div class="option" data-selectable="" data-value="49013">
+		<span class="stationName">Euston Post Office</span>
+		<span class="stationId">49013</span>
+	</div>
+	<div class="option" data-selectable="" data-value="58212">
+		<span class="stationName">Evans Head Raaf Bombing Range Aws</span>
+		<span class="stationId">58212</span>
+	</div>
+	<div class="option" data-selectable="" data-value="74093">
+		<span class="stationName">Finley (Strathdrummond)</span>
+		<span class="stationId">74093</span>
+	</div>
+	<div class="option" data-selectable="" data-value="65016">
+		<span class="stationName">Forbes (Camp Street)</span>
+		<span class="stationId">65016</span>
+	</div>
+	<div class="option" data-selectable="" data-value="65103">
+		<span class="stationName">Forbes Airport Aws</span>
+		<span class="stationId">65103</span>
+	</div>
+	<div class="option" data-selectable="" data-value="60013">
+		<span class="stationName">Forster - Tuncurry Marine Rescue</span>
+		<span class="stationId">60013</span>
+	</div>
+	<div class="option" data-selectable="" data-value="46091">
+		<span class="stationName">Fowlers Gap Research Station</span>
+		<span class="stationId">46091</span>
+	</div>
+	<div class="option" data-selectable="" data-value="70034">
+		<span class="stationName">Frogmore</span>
+		<span class="stationId">70034</span>
+	</div>
+	<div class="option" data-selectable="" data-value="51018">
+		<span class="stationName">Gilgandra (Chelmsford Ave)</span>
+		<span class="stationId">51018</span>
+	</div>
+	<div class="option" data-selectable="" data-value="57009">
+		<span class="stationName">Girard State Forest</span>
+		<span class="stationId">57009</span>
+	</div>
+	<div class="option" data-selectable="" data-value="57082">
+		<span class="stationName">Glen Innes (Mt Mitchell Forest)</span>
+		<span class="stationId">57082</span>
+	</div>
+	<div class="option" data-selectable="" data-value="56013">
+		<span class="stationName">Glen Innes Ag Research Stn</span>
+		<span class="stationId">56013</span>
+	</div>
+	<div class="option" data-selectable="" data-value="56243">
+		<span class="stationName">Glen Innes Airport Aws</span>
+		<span class="stationId">56243</span>
+	</div>
+	<div class="option" data-selectable="" data-value="56011">
+		<span class="stationName">Glen Innes Post Office</span>
+		<span class="stationId">56011</span>
+	</div>
+	<div class="option" data-selectable="" data-value="67009">
+		<span class="stationName">Glenfield (Macquarie)</span>
+		<span class="stationId">67009</span>
+	</div>
+	<div class="option" data-selectable="" data-value="67010">
+		<span class="stationName">Glenorie (Old Northern Rd)</span>
+		<span class="stationId">67010</span>
+	</div>
+	<div class="option" data-selectable="" data-value="48046">
+		<span class="stationName">Goodooga Post Office</span>
+		<span class="stationId">48046</span>
+	</div>
+	<div class="option" data-selectable="" data-value="61087">
+		<span class="stationName">Gosford (Narara Research Station) Aws</span>
+		<span class="stationId">61087</span>
+	</div>
+	<div class="option" data-selectable="" data-value="70037">
+		<span class="stationName">Goulburn</span>
+		<span class="stationId">70037</span>
+	</div>
+	<div class="option" data-selectable="" data-value="70330">
+		<span class="stationName">Goulburn Airport Aws</span>
+		<span class="stationId">70330</span>
+	</div>
+	<div class="option" data-selectable="" data-value="70285">
+		<span class="stationName">Goulburn St Johns</span>
+		<span class="stationId">70285</span>
+	</div>
+	<div class="option" data-selectable="" data-value="70263">
+		<span class="stationName">Goulburn Tafe</span>
+		<span class="stationId">70263</span>
+	</div>
+	<div class="option" data-selectable="" data-value="58130">
+		<span class="stationName">Grafton Olympic Pool</span>
+		<span class="stationId">58130</span>
+	</div>
+	<div class="option" data-selectable="" data-value="58077">
+		<span class="stationName">Grafton Research Stn</span>
+		<span class="stationId">58077</span>
+	</div>
+	<div class="option" data-selectable="" data-value="66134">
+		<span class="stationName">Granville Shell Refinery</span>
+		<span class="stationId">66134</span>
+	</div>
+	<div class="option" data-selectable="" data-value="69137">
+		<span class="stationName">Green Cape Aws</span>
+		<span class="stationId">69137</span>
+	</div>
+	<div class="option" data-selectable="" data-value="69055">
+		<span class="stationName">Green Cape Lighthouse</span>
+		<span class="stationId">69055</span>
+	</div>
+	<div class="option" data-selectable="" data-value="73014">
+		<span class="stationName">Grenfell (Manganese Rd)</span>
+		<span class="stationId">73014</span>
+	</div>
+	<div class="option" data-selectable="" data-value="75041">
+		<span class="stationName">Griffith Airport Aws</span>
+		<span class="stationId">75041</span>
+	</div>
+	<div class="option" data-selectable="" data-value="75028">
+		<span class="stationName">Griffith Csiro</span>
+		<span class="stationId">75028</span>
+	</div>
+	<div class="option" data-selectable="" data-value="75174">
+		<span class="stationName">Griffith Csiro</span>
+		<span class="stationId">75174</span>
+	</div>
+	<div class="option" data-selectable="" data-value="70172">
+		<span class="stationName">Gudgenby</span>
+		<span class="stationId">70172</span>
+	</div>
+	<div class="option" data-selectable="" data-value="62013">
+		<span class="stationName">Gulgong Post Office</span>
+		<span class="stationId">62013</span>
+	</div>
+	<div class="option" data-selectable="" data-value="73141">
+		<span class="stationName">Gundagai (Nangus Rd)</span>
+		<span class="stationId">73141</span>
+	</div>
+	<div class="option" data-selectable="" data-value="73125">
+		<span class="stationName">Gundagai Otway St</span>
+		<span class="stationId">73125</span>
+	</div>
+	<div class="option" data-selectable="" data-value="73128">
+		<span class="stationName">Gundagai Ridge Street</span>
+		<span class="stationId">73128</span>
+	</div>
+	<div class="option" data-selectable="" data-value="55202">
+		<span class="stationName">Gunnedah Airport Aws</span>
+		<span class="stationId">55202</span>
+	</div>
+	<div class="option" data-selectable="" data-value="55023">
+		<span class="stationName">Gunnedah Pool</span>
+		<span class="stationId">55023</span>
+	</div>
+	<div class="option" data-selectable="" data-value="55024">
+		<span class="stationName">Gunnedah Resource Centre</span>
+		<span class="stationId">55024</span>
+	</div>
+	<div class="option" data-selectable="" data-value="63033">
+		<span class="stationName">Gurnang State Forest (Oberon (Young Adul</span>
+		<span class="stationId">63033</span>
+	</div>
+	<div class="option" data-selectable="" data-value="71034">
+		<span class="stationName">Guthega Power Station</span>
+		<span class="stationId">71034</span>
+	</div>
+	<div class="option" data-selectable="" data-value="56229">
+		<span class="stationName">Guyra Hospital</span>
+		<span class="stationId">56229</span>
+	</div>
+	<div class="option" data-selectable="" data-value="56016">
+		<span class="stationName">Guyra Post Office</span>
+		<span class="stationId">56016</span>
+	</div>
+	<div class="option" data-selectable="" data-value="73016">
+		<span class="stationName">Harden (East St)</span>
+		<span class="stationId">73016</span>
+	</div>
+	<div class="option" data-selectable="" data-value="60023">
+		<span class="stationName">Harrington (Oxley Anchorage Caravan Park</span>
+		<span class="stationId">60023</span>
+	</div>
+	<div class="option" data-selectable="" data-value="58027">
+		<span class="stationName">Harwood Island (Harwood Sugar Mill)</span>
+		<span class="stationId">58027</span>
+	</div>
+	<div class="option" data-selectable="" data-value="75031">
+		<span class="stationName">Hay (Miller Street)</span>
+		<span class="stationId">75031</span>
+	</div>
+	<div class="option" data-selectable="" data-value="75175">
+		<span class="stationName">Hay Csiro Aws</span>
+		<span class="stationId">75175</span>
+	</div>
+	<div class="option" data-selectable="" data-value="75032">
+		<span class="stationName">Hillston Airport</span>
+		<span class="stationId">75032</span>
+	</div>
+	<div class="option" data-selectable="" data-value="66154">
+		<span class="stationName">Holdsworthy Air Cavalry</span>
+		<span class="stationId">66154</span>
+	</div>
+	<div class="option" data-selectable="" data-value="67117">
+		<span class="stationName">Holsworthy Control Range</span>
+		<span class="stationId">67117</span>
+	</div>
+	<div class="option" data-selectable="" data-value="70241">
+		<span class="stationName">Honeysuckle Creek</span>
+		<span class="stationId">70241</span>
+	</div>
+	<div class="option" data-selectable="" data-value="67119">
+		<span class="stationName">Horsley Park Equestrian Centre Aws</span>
+		<span class="stationId">67119</span>
+	</div>
+	<div class="option" data-selectable="" data-value="72023">
+		<span class="stationName">Hume Reservoir</span>
+		<span class="stationId">72023</span>
+	</div>
+	<div class="option" data-selectable="" data-value="56242">
+		<span class="stationName">Inverell (Raglan St)</span>
+		<span class="stationId">56242</span>
+	</div>
+	<div class="option" data-selectable="" data-value="56017">
+		<span class="stationName">Inverell Comparison</span>
+		<span class="stationId">56017</span>
+	</div>
+	<div class="option" data-selectable="" data-value="56018">
+		<span class="stationName">Inverell Research Centre</span>
+		<span class="stationId">56018</span>
+	</div>
+	<div class="option" data-selectable="" data-value="71031">
+		<span class="stationName">Island Bend</span>
+		<span class="stationId">71031</span>
+	</div>
+	<div class="option" data-selectable="" data-value="49000">
+		<span class="stationName">Ivanhoe Aerodrome Aws</span>
+		<span class="stationId">49000</span>
+	</div>
+	<div class="option" data-selectable="" data-value="49019">
+		<span class="stationName">Ivanhoe Post Office</span>
+		<span class="stationId">49019</span>
+	</div>
+	<div class="option" data-selectable="" data-value="57017">
+		<span class="stationName">Jeogla (Jeolga Old.Sf.Site)</span>
+		<span class="stationId">57017</span>
+	</div>
+	<div class="option" data-selectable="" data-value="61086">
+		<span class="stationName">Jerrys Plains Post Office</span>
+		<span class="stationId">61086</span>
+	</div>
+	<div class="option" data-selectable="" data-value="68151">
+		<span class="stationName">Jervis Bay (Point Perpendicular Aws)</span>
+		<span class="stationId">68151</span>
+	</div>
+	<div class="option" data-selectable="" data-value="68034">
+		<span class="stationName">Jervis Bay (Point Perpendicular Lighthou</span>
+		<span class="stationId">68034</span>
+	</div>
+	<div class="option" data-selectable="" data-value="73019">
+		<span class="stationName">Junee Treatment Works</span>
+		<span class="stationId">73019</span>
+	</div>
+	<div class="option" data-selectable="" data-value="63039">
+		<span class="stationName">Katoomba (Farnells Rd)</span>
+		<span class="stationId">63039</span>
+	</div>
+	<div class="option" data-selectable="" data-value="59017">
+		<span class="stationName">Kempsey (Wide Street)</span>
+		<span class="stationId">59017</span>
+	</div>
+	<div class="option" data-selectable="" data-value="59007">
+		<span class="stationName">Kempsey Airport Aws</span>
+		<span class="stationId">59007</span>
+	</div>
+	<div class="option" data-selectable="" data-value="60039">
+		<span class="stationName">Kendall Forestry</span>
+		<span class="stationId">60039</span>
+	</div>
+	<div class="option" data-selectable="" data-value="72162">
+		<span class="stationName">Khancoban Aws</span>
+		<span class="stationId">72162</span>
+	</div>
+	<div class="option" data-selectable="" data-value="72060">
+		<span class="stationName">Khancoban Smhea</span>
+		<span class="stationId">72060</span>
+	</div>
+	<div class="option" data-selectable="" data-value="68038">
+		<span class="stationName">Kiama Bowling Club</span>
+		<span class="stationId">68038</span>
+	</div>
+	<div class="option" data-selectable="" data-value="71010">
+		<span class="stationName">Kiandra Chalet</span>
+		<span class="stationId">71010</span>
+	</div>
+	<div class="option" data-selectable="" data-value="63040">
+		<span class="stationName">Kings Tablelands</span>
+		<span class="stationId">63040</span>
+	</div>
+	<div class="option" data-selectable="" data-value="69126">
+		<span class="stationName">Kioloa (London Foundation)</span>
+		<span class="stationId">69126</span>
+	</div>
+	<div class="option" data-selectable="" data-value="63111">
+		<span class="stationName">Kirkconnell Prison Camp</span>
+		<span class="stationId">63111</span>
+	</div>
+	<div class="option" data-selectable="" data-value="61029">
+		<span class="stationName">Kulnura (William Road)</span>
+		<span class="stationId">61029</span>
+	</div>
+	<div class="option" data-selectable="" data-value="75039">
+		<span class="stationName">Lake Cargelligo Airport</span>
+		<span class="stationId">75039</span>
+	</div>
+	<div class="option" data-selectable="" data-value="47016">
+		<span class="stationName">Lake Victoria Storage</span>
+		<span class="stationId">47016</span>
+	</div>
+	<div class="option" data-selectable="" data-value="72090">
+		<span class="stationName">Laurel Hill Prison Camp</span>
+		<span class="stationId">72090</span>
+	</div>
+	<div class="option" data-selectable="" data-value="74062">
+		<span class="stationName">Leeton Caravan Park</span>
+		<span class="stationId">74062</span>
+	</div>
+	<div class="option" data-selectable="" data-value="63046">
+		<span class="stationName">Lidsdale State Forest</span>
+		<span class="stationId">63046</span>
+	</div>
+	<div class="option" data-selectable="" data-value="48243">
+		<span class="stationName">Lightning Ridge Visitor Information Cent</span>
+		<span class="stationId">48243</span>
+	</div>
+	<div class="option" data-selectable="" data-value="58037">
+		<span class="stationName">Lismore (Centre Street)</span>
+		<span class="stationId">58037</span>
+	</div>
+	<div class="option" data-selectable="" data-value="58214">
+		<span class="stationName">Lismore Airport Aws</span>
+		<span class="stationId">58214</span>
+	</div>
+	<div class="option" data-selectable="" data-value="63224">
+		<span class="stationName">Lithgow (Birdwood St)</span>
+		<span class="stationId">63224</span>
+	</div>
+	<div class="option" data-selectable="" data-value="63226">
+		<span class="stationName">Lithgow (Cooerwull)</span>
+		<span class="stationId">63226</span>
+	</div>
+	<div class="option" data-selectable="" data-value="63062">
+		<span class="stationName">Lithgow (Newnes Forest Centre)</span>
+		<span class="stationId">63062</span>
+	</div>
+	<div class="option" data-selectable="" data-value="67020">
+		<span class="stationName">Liverpool (Michael Wenden Centre)</span>
+		<span class="stationId">67020</span>
+	</div>
+	<div class="option" data-selectable="" data-value="67035">
+		<span class="stationName">Liverpool(Whitlam Centre)</span>
+		<span class="stationId">67035</span>
+	</div>
+	<div class="option" data-selectable="" data-value="61288">
+		<span class="stationName">Lostock Dam</span>
+		<span class="stationId">61288</span>
+	</div>
+	<div class="option" data-selectable="" data-value="66078">
+		<span class="stationName">Lucas Heights (Ansto)</span>
+		<span class="stationId">66078</span>
+	</div>
+	<div class="option" data-selectable="" data-value="66156">
+		<span class="stationName">Macquarie Park (Willandra Village)</span>
+		<span class="stationId">66156</span>
+	</div>
+	<div class="option" data-selectable="" data-value="61388">
+		<span class="stationName">Maitland Visitors Centre</span>
+		<span class="stationId">61388</span>
+	</div>
+	<div class="option" data-selectable="" data-value="61259">
+		<span class="stationName">Maitland West Aero</span>
+		<span class="stationId">61259</span>
+	</div>
+	<div class="option" data-selectable="" data-value="61375">
+		<span class="stationName">Mangrove Mountain Aws</span>
+		<span class="stationId">61375</span>
+	</div>
+	<div class="option" data-selectable="" data-value="61223">
+		<span class="stationName">Maryville</span>
+		<span class="stationId">61223</span>
+	</div>
+	<div class="option" data-selectable="" data-value="74069">
+		<span class="stationName">Mathoura State Forest</span>
+		<span class="stationId">74069</span>
+	</div>
+	<div class="option" data-selectable="" data-value="47019">
+		<span class="stationName">Menindee Post Office</span>
+		<span class="stationId">47019</span>
+	</div>
+	<div class="option" data-selectable="" data-value="69147">
+		<span class="stationName">Merimbula Airport Aws</span>
+		<span class="stationId">69147</span>
+	</div>
+	<div class="option" data-selectable="" data-value="69093">
+		<span class="stationName">Merimbula Airport Comparison</span>
+		<span class="stationId">69093</span>
+	</div>
+	<div class="option" data-selectable="" data-value="61287">
+		<span class="stationName">Merriwa (Roscommon)</span>
+		<span class="stationId">61287</span>
+	</div>
+	<div class="option" data-selectable="" data-value="63053">
+		<span class="stationName">Millthorpe (Inala)</span>
+		<span class="stationId">63053</span>
+	</div>
+	<div class="option" data-selectable="" data-value="68220">
+		<span class="stationName">Minto (Alderney Street)</span>
+		<span class="stationId">68220</span>
+	</div>
+	<div class="option" data-selectable="" data-value="74077">
+		<span class="stationName">Moira State Forest</span>
+		<span class="stationId">74077</span>
+	</div>
+	<div class="option" data-selectable="" data-value="65023">
+		<span class="stationName">Molong (Hill St)</span>
+		<span class="stationId">65023</span>
+	</div>
+	<div class="option" data-selectable="" data-value="60006">
+		<span class="stationName">Moorland (Coopernook State Forest)</span>
+		<span class="stationId">60006</span>
+	</div>
+	<div class="option" data-selectable="" data-value="53115">
+		<span class="stationName">Moree Aero</span>
+		<span class="stationId">53115</span>
+	</div>
+	<div class="option" data-selectable="" data-value="53048">
+		<span class="stationName">Moree Comparison</span>
+		<span class="stationId">53048</span>
+	</div>
+	<div class="option" data-selectable="" data-value="53027">
+		<span class="stationName">Moree Post Office</span>
+		<span class="stationId">53027</span>
+	</div>
+	<div class="option" data-selectable="" data-value="69148">
+		<span class="stationName">Moruya Airport Aws</span>
+		<span class="stationId">69148</span>
+	</div>
+	<div class="option" data-selectable="" data-value="69018">
+		<span class="stationName">Moruya Heads Pilot Station</span>
+		<span class="stationId">69018</span>
+	</div>
+	<div class="option" data-selectable="" data-value="68045">
+		<span class="stationName">Moss Vale (Hoskins Street)</span>
+		<span class="stationId">68045</span>
+	</div>
+	<div class="option" data-selectable="" data-value="68239">
+		<span class="stationName">Moss Vale Aws</span>
+		<span class="stationId">68239</span>
+	</div>
+	<div class="option" data-selectable="" data-value="75046">
+		<span class="stationName">Moulamein Post Office</span>
+		<span class="stationId">75046</span>
+	</div>
+	<div class="option" data-selectable="" data-value="63292">
+		<span class="stationName">Mount Boyce Aws</span>
+		<span class="stationId">63292</span>
+	</div>
+	<div class="option" data-selectable="" data-value="49032">
+		<span class="stationName">Mount Hope (Cypress Grove)</span>
+		<span class="stationId">49032</span>
+	</div>
+	<div class="option" data-selectable="" data-value="56021">
+		<span class="stationName">Mount Topper State Forest</span>
+		<span class="stationId">56021</span>
+	</div>
+	<div class="option" data-selectable="" data-value="63056">
+		<span class="stationName">Mount Victoria (Mt Victoria (Selsdon Str</span>
+		<span class="stationId">63056</span>
+	</div>
+	<div class="option" data-selectable="" data-value="62021">
+		<span class="stationName">Mudgee (George Street)</span>
+		<span class="stationId">62021</span>
+	</div>
+	<div class="option" data-selectable="" data-value="62101">
+		<span class="stationName">Mudgee Airport Aws</span>
+		<span class="stationId">62101</span>
+	</div>
+	<div class="option" data-selectable="" data-value="63058">
+		<span class="stationName">Mullion Creek (Mullion Range Forest)</span>
+		<span class="stationId">63058</span>
+	</div>
+	<div class="option" data-selectable="" data-value="52020">
+		<span class="stationName">Mungindi Post Office</span>
+		<span class="stationId">52020</span>
+	</div>
+	<div class="option" data-selectable="" data-value="72035">
+		<span class="stationName">Murraguldrie State Forest 1</span>
+		<span class="stationId">72035</span>
+	</div>
+	<div class="option" data-selectable="" data-value="61392">
+		<span class="stationName">Murrurundi Gap Aws</span>
+		<span class="stationId">61392</span>
+	</div>
+	<div class="option" data-selectable="" data-value="61051">
+		<span class="stationName">Murrurundi Post Office</span>
+		<span class="stationId">61051</span>
+	</div>
+	<div class="option" data-selectable="" data-value="58158">
+		<span class="stationName">Murwillumbah (Bray Park)</span>
+		<span class="stationId">58158</span>
+	</div>
+	<div class="option" data-selectable="" data-value="61053">
+		<span class="stationName">Muswellbrook (Lower Hill St)</span>
+		<span class="stationId">61053</span>
+	</div>
+	<div class="option" data-selectable="" data-value="69021">
+		<span class="stationName">Nalbaugh State Forest</span>
+		<span class="stationId">69021</span>
+	</div>
+	<div class="option" data-selectable="" data-value="70312">
+		<span class="stationName">Namadgi National Park (Glendale Crossing</span>
+		<span class="stationId">70312</span>
+	</div>
+	<div class="option" data-selectable="" data-value="75050">
+		<span class="stationName">Naradhan (Uralba)</span>
+		<span class="stationId">75050</span>
+	</div>
+	<div class="option" data-selectable="" data-value="69022">
+		<span class="stationName">Narooma (Marine Rescue)</span>
+		<span class="stationId">69022</span>
+	</div>
+	<div class="option" data-selectable="" data-value="54038">
+		<span class="stationName">Narrabri Airport Aws</span>
+		<span class="stationId">54038</span>
+	</div>
+	<div class="option" data-selectable="" data-value="53030">
+		<span class="stationName">Narrabri West Post Office</span>
+		<span class="stationId">53030</span>
+	</div>
+	<div class="option" data-selectable="" data-value="74148">
+		<span class="stationName">Narrandera Airport Aws</span>
+		<span class="stationId">74148</span>
+	</div>
+	<div class="option" data-selectable="" data-value="74221">
+		<span class="stationName">Narrandera Golf Club</span>
+		<span class="stationId">74221</span>
+	</div>
+	<div class="option" data-selectable="" data-value="74082">
+		<span class="stationName">Narrandera Post Office</span>
+		<span class="stationId">74082</span>
+	</div>
+	<div class="option" data-selectable="" data-value="74083">
+		<span class="stationName">Narrandera State Forest</span>
+		<span class="stationId">74083</span>
+	</div>
+	<div class="option" data-selectable="" data-value="51115">
+		<span class="stationName">Narromine Airport</span>
+		<span class="stationId">51115</span>
+	</div>
+	<div class="option" data-selectable="" data-value="61054">
+		<span class="stationName">Nelson Bay (Nelson Head)</span>
+		<span class="stationId">61054</span>
+	</div>
+	<div class="option" data-selectable="" data-value="69049">
+		<span class="stationName">Nerriga Composite</span>
+		<span class="stationId">69049</span>
+	</div>
+	<div class="option" data-selectable="" data-value="61055">
+		<span class="stationName">Newcastle Nobbys Signal Station Aws</span>
+		<span class="stationId">61055</span>
+	</div>
+	<div class="option" data-selectable="" data-value="61390">
+		<span class="stationName">Newcastle University</span>
+		<span class="stationId">61390</span>
+	</div>
+	<div class="option" data-selectable="" data-value="70067">
+		<span class="stationName">Nimmitabel Wastewater Treatment Facility</span>
+		<span class="stationId">70067</span>
+	</div>
+	<div class="option" data-selectable="" data-value="61366">
+		<span class="stationName">Norah Head Aws</span>
+		<span class="stationId">61366</span>
+	</div>
+	<div class="option" data-selectable="" data-value="61273">
+		<span class="stationName">Norah Head Lighthouse</span>
+		<span class="stationId">61273</span>
+	</div>
+	<div class="option" data-selectable="" data-value="68076">
+		<span class="stationName">Nowra Ran Air Station</span>
+		<span class="stationId">68076</span>
+	</div>
+	<div class="option" data-selectable="" data-value="68072">
+		<span class="stationName">Nowra Ran Air Station Aws</span>
+		<span class="stationId">68072</span>
+	</div>
+</div>

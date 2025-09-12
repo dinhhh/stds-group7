@@ -1,0 +1,572 @@
+station_name,station_id,state
+Adelong (Tumut St),72000,NSW
+Albion Park (Shellharbour Airport),68241,NSW
+Albury Airport,72146,NSW
+Albury Airport Aws,72160,NSW
+Albury Grammar School,72059,NSW
+Albury Pumping Station,72097,NSW
+Alstonville Tropical Fruit Research Stat,58131,NSW
+Ardlethan Post Office,74000,NSW
+Armidale (Radio Station 2ad),56002,NSW
+Armidale (Tree Group Nursery),56037,NSW
+Armidale Airport Aws,56238,NSW
+Badgerys Creek Aws,67108,NSW
+Badgerys Creek Mcmasters F.Stn,67068,NSW
+Ballina Airport Aws,58198,NSW
+Balranald (Rsl),49002,NSW
+Bankstown Airport Aws,66137,NSW
+Baradine Forestry,53002,NSW
+Barraba (Clifton Lane),54003,NSW
+Batemans Bay (Catalina Country Club),69134,NSW
+Bathurst Agricultural Station,63005,NSW
+Bathurst Airport Aws,63291,NSW
+Bathurst Gaol,63004,NSW
+Bega (Newtown Road),69002,NSW
+Bega Aws,69139,NSW
+Bellambi Aws,68228,NSW
+Bellangry State Forest 524,60000,NSW
+Bellingen (The Observatory),59094,NSW
+Bellingen Post Office,59001,NSW
+Bendora Dam,70316,NSW
+Berrigan Post Office,74009,NSW
+Bingara Post Office,54004,NSW
+Black Springs Forestry,63087,NSW
+Blayney Post Office,63010,NSW
+Bombala (Therry Street),70005,NSW
+Bombala Aws,70328,NSW
+Bonshaw (Monkstadt),56041,NSW
+Boorowa Post Office,70220,NSW
+Bourke Airport,48239,NSW
+Bourke Airport Aws,48245,NSW
+Bourke Post Office,48013,NSW
+Bowral (Parry Drive),68102,NSW
+Bowral Post Office,68005,NSW
+Braidwood (Monkittee Street),69010,NSW
+Braidwood Racecourse Aws,69132,NSW
+Brewarrina Hospital,48015,NSW
+Broadwater Sugar Mill,58065,NSW
+Broken Hill (Patton Street),47007,NSW
+Broken Hill (Stephens Creek Reservoir),47031,NSW
+Broken Hill Airport Aws,47048,NSW
+Broken Hill Rfds,47102,NSW
+Brookfield Forest Station,72009,NSW
+Brooklana (Bobo Nursery),59004,NSW
+Bundarra Post Office,56006,NSW
+Burrinjuck Dam,73007,NSW
+Byron Bay (Cape Byron Aws),58216,NSW
+Byron Bay (Cape Byron Lighthouse),58009,NSW
+Cabramurra Smhea,71030,NSW
+Cabramurra Smhea,72091,NSW
+Cabramurra Smhea Aws,72161,NSW
+Camden Airport Aws,68192,NSW
+Campbells Hill,61008,NSW
+Campbelltown Swimming Centre,68081,NSW
+Canberra Airport Comparison,70014,NSW
+Canberra City,70282,NSW
+Canberra Forestry,70015,NSW
+Canowindra (Canowindra Street),65006,NSW
+Canterbury Racecourse Aws,66194,NSW
+Carabost Forest Headquarters,72013,NSW
+Carabost State Forest 2,72014,NSW
+Carcoar,63019,NSW
+Carcoar (Icely Street),63216,NSW
+Casino Airport,58063,NSW
+Casino Airport Aws,58208,NSW
+Cassilis (Dalkeith),62009,NSW
+Cassilis Post Office,62005,NSW
+Centennial Park,66160,NSW
+Cessnock (Nulkaba),61242,NSW
+Cessnock Airport Aws,61260,NSW
+Cessnock Post Office,61009,NSW
+Charlotte Pass (Kosciusko Chalet),71003,NSW
+Clouds Creek State Forest,59008,NSW
+Cobar Airport Aws,48237,NSW
+Cobar Mo,48027,NSW
+Cobar Post Office,48030,NSW
+Coffs Harbour Mo,59040,NSW
+Collarenebri (Albert St),48031,NSW
+Condobolin Ag Research Stn,50052,NSW
+Condobolin Airport Aws,50137,NSW
+Condobolin Retirement Village,50014,NSW
+Condobolin Soil Conservation,50102,NSW
+Condong Sugar Mill,58013,NSW
+Coolah (Binnia St),64025,NSW
+Coolongalook State Forest,60009,NSW
+Cooma Airport Aws,70217,NSW
+Cooma North Geringa Avenue,70258,NSW
+Cooma North Smhec,70094,NSW
+Cooma Visitors Centre,70278,NSW
+Coonabarabran (Showgrounds),64008,NSW
+Coonabarabran Airport Aws,64017,NSW
+Coonamble Airport Aws,51161,NSW
+Coonamble Comparison,51010,NSW
+Cootamundra Airport,73142,NSW
+Cootamundra Post Office,73009,NSW
+Corin Dam,70317,NSW
+Corowa Airport,74034,NSW
+Cowra Airport Comparison,65091,NSW
+Cowra Post Office,63021,NSW
+Cowra Research Centre (Evans St),63023,NSW
+Craigie (Bondi Forest Lodge),70326,NSW
+Crookwell Post Office,70025,NSW
+Deepwater Post Office,56008,NSW
+Deniliquin (Visitor Information Centre),74128,NSW
+Deniliquin Airport Aws,74258,NSW
+Deniliquin Falkiner Memorial,74039,NSW
+Dorrigo (Old Coramba Rd),59140,NSW
+Doyles River State Forest,60041,NSW
+Dubbo (Darling Street),65012,NSW
+Dubbo Airport Aws,65070,NSW
+Dubbo State Forest,65037,NSW
+Dunedoo Post Office,64009,NSW
+Dungog Post Office,61017,NSW
+East Maitland Bowling Club,61034,NSW
+Euston Post Office,49013,NSW
+Evans Head Raaf Bombing Range Aws,58212,NSW
+Finley (Strathdrummond),74093,NSW
+Forbes (Camp Street),65016,NSW
+Forbes Airport Aws,65103,NSW
+Forster - Tuncurry Marine Rescue,60013,NSW
+Fowlers Gap Research Station,46091,NSW
+Frogmore,70034,NSW
+Gilgandra (Chelmsford Ave),51018,NSW
+Girard State Forest,57009,NSW
+Glen Innes (Mt Mitchell Forest),57082,NSW
+Glen Innes Ag Research Stn,56013,NSW
+Glen Innes Airport Aws,56243,NSW
+Glen Innes Post Office,56011,NSW
+Glenfield (Macquarie),67009,NSW
+Glenorie (Old Northern Rd),67010,NSW
+Goodooga Post Office,48046,NSW
+Gosford (Narara Research Station) Aws,61087,NSW
+Goulburn,70037,NSW
+Goulburn Airport Aws,70330,NSW
+Goulburn St Johns,70285,NSW
+Goulburn Tafe,70263,NSW
+Grafton Olympic Pool,58130,NSW
+Grafton Research Stn,58077,NSW
+Granville Shell Refinery,66134,NSW
+Green Cape Aws,69137,NSW
+Green Cape Lighthouse,69055,NSW
+Grenfell (Manganese Rd),73014,NSW
+Griffith Airport Aws,75041,NSW
+Griffith Csiro,75028,NSW
+Griffith Csiro,75174,NSW
+Gudgenby,70172,NSW
+Gulgong Post Office,62013,NSW
+Gundagai (Nangus Rd),73141,NSW
+Gundagai Otway St,73125,NSW
+Gundagai Ridge Street,73128,NSW
+Gunnedah Airport Aws,55202,NSW
+Gunnedah Pool,55023,NSW
+Gunnedah Resource Centre,55024,NSW
+Gurnang State Forest (Oberon (Young Adul,63033,NSW
+Guthega Power Station,71034,NSW
+Guyra Hospital,56229,NSW
+Guyra Post Office,56016,NSW
+Harden (East St),73016,NSW
+Harrington (Oxley Anchorage Caravan Park,60023,NSW
+Harwood Island (Harwood Sugar Mill),58027,NSW
+Hay (Miller Street),75031,NSW
+Hay Csiro Aws,75175,NSW
+Hillston Airport,75032,NSW
+Holdsworthy Air Cavalry,66154,NSW
+Holsworthy Control Range,67117,NSW
+Honeysuckle Creek,70241,NSW
+Horsley Park Equestrian Centre Aws,67119,NSW
+Hume Reservoir,72023,NSW
+Inverell (Raglan St),56242,NSW
+Inverell Comparison,56017,NSW
+Inverell Research Centre,56018,NSW
+Island Bend,71031,NSW
+Ivanhoe Aerodrome Aws,49000,NSW
+Ivanhoe Post Office,49019,NSW
+Jeogla (Jeolga Old.Sf.Site),57017,NSW
+Jerrys Plains Post Office,61086,NSW
+Jervis Bay (Point Perpendicular Aws),68151,NSW
+Jervis Bay (Point Perpendicular Lighthou,68034,NSW
+Junee Treatment Works,73019,NSW
+Katoomba (Farnells Rd),63039,NSW
+Kempsey (Wide Street),59017,NSW
+Kempsey Airport Aws,59007,NSW
+Kendall Forestry,60039,NSW
+Khancoban Aws,72162,NSW
+Khancoban Smhea,72060,NSW
+Kiama Bowling Club,68038,NSW
+Kiandra Chalet,71010,NSW
+Kings Tablelands,63040,NSW
+Kioloa (London Foundation),69126,NSW
+Kirkconnell Prison Camp,63111,NSW
+Kulnura (William Road),61029,NSW
+Lake Cargelligo Airport,75039,NSW
+Lake Victoria Storage,47016,NSW
+Laurel Hill Prison Camp,72090,NSW
+Leeton Caravan Park,74062,NSW
+Lidsdale State Forest,63046,NSW
+Lightning Ridge Visitor Information Cent,48243,NSW
+Lismore (Centre Street),58037,NSW
+Lismore Airport Aws,58214,NSW
+Lithgow (Birdwood St),63224,NSW
+Lithgow (Cooerwull),63226,NSW
+Lithgow (Newnes Forest Centre),63062,NSW
+Liverpool (Michael Wenden Centre),67020,NSW
+Liverpool(Whitlam Centre),67035,NSW
+Lostock Dam,61288,NSW
+Lucas Heights (Ansto),66078,NSW
+Macquarie Park (Willandra Village),66156,NSW
+Maitland Visitors Centre,61388,NSW
+Maitland West Aero,61259,NSW
+Mangrove Mountain Aws,61375,NSW
+Maryville,61223,NSW
+Mathoura State Forest,74069,NSW
+Menindee Post Office,47019,NSW
+Merimbula Airport Aws,69147,NSW
+Merimbula Airport Comparison,69093,NSW
+Merriwa (Roscommon),61287,NSW
+Millthorpe (Inala),63053,NSW
+Minto (Alderney Street),68220,NSW
+Moira State Forest,74077,NSW
+Molong (Hill St),65023,NSW
+Moorland (Coopernook State Forest),60006,NSW
+Moree Aero,53115,NSW
+Moree Comparison,53048,NSW
+Moree Post Office,53027,NSW
+Moruya Airport Aws,69148,NSW
+Moruya Heads Pilot Station,69018,NSW
+Moss Vale (Hoskins Street),68045,NSW
+Moss Vale Aws,68239,NSW
+Moulamein Post Office,75046,NSW
+Mount Boyce Aws,63292,NSW
+Mount Hope (Cypress Grove),49032,NSW
+Mount Topper State Forest,56021,NSW
+Mount Victoria (Mt Victoria (Selsdon Str,63056,NSW
+Mudgee (George Street),62021,NSW
+Mudgee Airport Aws,62101,NSW
+Mullion Creek (Mullion Range Forest),63058,NSW
+Mungindi Post Office,52020,NSW
+Murraguldrie State Forest 1,72035,NSW
+Murrurundi Gap Aws,61392,NSW
+Murrurundi Post Office,61051,NSW
+Murwillumbah (Bray Park),58158,NSW
+Muswellbrook (Lower Hill St),61053,NSW
+Nalbaugh State Forest,69021,NSW
+Namadgi National Park (Glendale Crossing,70312,NSW
+Naradhan (Uralba),75050,NSW
+Narooma (Marine Rescue),69022,NSW
+Narrabri Airport Aws,54038,NSW
+Narrabri West Post Office,53030,NSW
+Narrandera Airport Aws,74148,NSW
+Narrandera Golf Club,74221,NSW
+Narrandera Post Office,74082,NSW
+Narrandera State Forest,74083,NSW
+Narromine Airport,51115,NSW
+Nelson Bay (Nelson Head),61054,NSW
+Nerriga Composite,69049,NSW
+Newcastle Nobbys Signal Station Aws,61055,NSW
+Newcastle University,61390,NSW
+Nimmitabel Wastewater Treatment Facility,70067,NSW
+Norah Head Aws,61366,NSW
+Norah Head Lighthouse,61273,NSW
+Nowra Ran Air Station,68076,NSW
+Nowra Ran Air Station Aws,68072,NSW
+station_name,station_id,state
+Adavale Post Office,45000,QLD
+Alva Beach,33295,QLD
+Amberley Amo,40004,QLD
+Applethorpe,41175,QLD
+Archerfield Airport,40211,QLD
+Atherton,31193,QLD
+Ayr Dpi Research Stn,33002,QLD
+Ballera Gas Field,45009,QLD
+Baralaba Post Office,39004,QLD
+Barcaldine Post Office,36007,QLD
+Baroon Pocket Dam,40850,QLD
+Beaudesert Cryna,40014,QLD
+Bedourie,38000,QLD
+Beerburrum Forest Station,40284,QLD
+Biloela Dpi,39006,QLD
+Birdsville Airport,38026,QLD
+Birdsville Police Station,38002,QLD
+Blackall Airport,36034,QLD
+Blackall Township,36143,QLD
+Blackwater Water Treatment Plant,35290,QLD
+Bollon Mary St,44010,QLD
+Bottom Of Pin Gin Hill,32061,QLD
+Boulia Airport,38003,QLD
+Bowen Airport,33257,QLD
+Bowen Post Office,33007,QLD
+Brian Pastures,40428,QLD
+Brigalow Research Stn,35149,QLD
+Brisbane,40913,QLD
+Brisbane Aero,40223,QLD
+Brisbane Aero,40842,QLD
+Brisbane Regional Office,40214,QLD
+Bulburin Forestry,39014,QLD
+Bundaberg Aero,39128,QLD
+Bundaberg Post Office,39015,QLD
+Burdekin Shire Council,33001,QLD
+Burketown Airport,29077,QLD
+Burketown Post Office,29004,QLD
+Bustard Head Lighthouse,39018,QLD
+Cairns Aero,31011,QLD
+Cairns Post Office,31010,QLD
+Caloundra Signal Station,40040,QLD
+Cambooya Post Office,41011,QLD
+Camooweal Township,37010,QLD
+Canungra Land Warfare Centre,40852,QLD
+Cape Capricorn Lighthouse,39023,QLD
+Cape Cleveland Lighthouse,32005,QLD
+Cape Flattery,31213,QLD
+Cape Moreton Lighthouse,40043,QLD
+Cardwell Marine Pde,32004,QLD
+Century Mine,29167,QLD
+Charleville Aero,44021,QLD
+Charleville Post Office,44022,QLD
+Charters Towers Airport Comparison,34084,QLD
+Charters Towers Post Office,34002,QLD
+Childers Post Office,39025,QLD
+Clermont Post Office,35019,QLD
+Cloncurry Aero,29009,QLD
+Cloncurry Airport,29141,QLD
+Cloncurry Mcillwraith St,29008,QLD
+Coen Airport,27073,QLD
+Coen Airport Evap,27006,QLD
+Coen Post Office,27005,QLD
+Collinsville Post Office,33013,QLD
+Como,40057,QLD
+Cooktown Airport,31209,QLD
+Cooktown Mission Strip,31017,QLD
+Cooktown Post Office,31016,QLD
+Coolangatta,40717,QLD
+Coolangatta Aero,40288,QLD
+Coolangatta Bowls Comp,40052,QLD
+Coolum Bowls Club,40420,QLD
+Crohamhurst,40062,QLD
+Croydon Township,29012,QLD
+Cunnamulla Post Office,44026,QLD
+Dalby Airport,41522,QLD
+Dalby Post Office,41023,QLD
+Double Island Point Lighthouse,40068,QLD
+Emerald Airport,35264,QLD
+Emerald Post Office,35027,QLD
+Gatton Daff Research Stn,40436,QLD
+Gayndah Airport,39066,QLD
+Gayndah Post Office,39039,QLD
+Georgetown Post Office,30018,QLD
+Gladstone Airport,39326,QLD
+Gladstone Radar,39123,QLD
+Glenlogan Field Station,40454,QLD
+Gold Coast Seaway,40764,QLD
+Goondiwindi Airport,41521,QLD
+Goondiwindi Post Office,41038,QLD
+Gympie,40093,QLD
+Hamilton Island,33255,QLD
+Hamilton Island Airport,33106,QLD
+Hayman Island Resort,33031,QLD
+Herberton Mowbray Rd,31029,QLD
+Hermitage,41044,QLD
+Hervey Bay Airport,40405,QLD
+Hervey Bay Wildlife Park,40765,QLD
+Hinze Dam,40584,QLD
+Horn Island,27058,QLD
+Hughenden Airport,30022,QLD
+Hughenden Post Office,30024,QLD
+Imbil Forestry,40100,QLD
+Ingham Composite,32078,QLD
+Inglewood Forest,41097,QLD
+Inglewood Tobacco Res,41341,QLD
+Injune Post Office,43015,QLD
+Innisfail,32025,QLD
+Ipswich,40101,QLD
+Isisford Post Office,36026,QLD
+Jimna Forestry,40651,QLD
+Julia Creek Airport,29058,QLD
+Julia Creek Post Office,29025,QLD
+K'Gari Eurong,40478,QLD
+Kairi Research Station,31034,QLD
+Kalpowar Forestry,39057,QLD
+Karumba Airport,29028,QLD
+Killarney Post Office,41056,QLD
+Kingaroy Airport,40922,QLD
+Kingaroy Prince Street,40112,QLD
+Kirkleagh,40318,QLD
+Koombooloomba Dam,31083,QLD
+Kowanyama Airport,29038,QLD
+Lakeland Downs Station,31110,QLD
+Lockhart River Airport,28008,QLD
+Logan City Water Treatment Plant,40854,QLD
+Longreach Aero,36031,QLD
+Longreach Post Office,36030,QLD
+Mackay Aero,33045,QLD
+Mackay M.O,33119,QLD
+Mackay Post Office,33046,QLD
+Maleny Tamarind St,40121,QLD
+Mareeba Airport,31190,QLD
+Mareeba Airport,31210,QLD
+Mareeba Qwrc,31066,QLD
+Maryborough,40126,QLD
+Miles Constance Street,42112,QLD
+Miles Post Office,42023,QLD
+Millaroo Dpi,33090,QLD
+Mitchell Post Office,43020,QLD
+Moggill Vet Res Farm,40418,QLD
+Monto Airport,39330,QLD
+Monto Township,39104,QLD
+Moranbah Water Treatment Plant,34038,QLD
+Moreton Telegraph Station,27015,QLD
+Mornington Island,29039,QLD
+Mount Isa Aero,29127,QLD
+Mount Isa Mine,29126,QLD
+Mount Isa Post Office,29125,QLD
+Mount Surprise Township,30036,QLD
+Mt Glorious Fahey Rd,40308,QLD
+Mt Tamborine Fern St,40197,QLD
+Musgrave,28007,QLD
+Nambour Dpi,40282,QLD
+Nanango Wills St,40158,QLD
+Narayen Res Stn,39171,QLD
+Normanton Airport,29063,QLD
+Normanton Post Office,29041,QLD
+station_name,station_id,state
+Aberfeldy,85000,VIC
+Aireys Inlet,90180,VIC
+Alexandra (Post Office),88001,VIC
+Ararat Post Office,89000,VIC
+Ararat Prison,89085,VIC
+Aspendale Csiro,86147,VIC
+Avalon Airport,87113,VIC
+Avoca (Post Office),81000,VIC
+Bairnsdale,84108,VIC
+Bairnsdale Airport,85279,VIC
+Bairnsdale Post Office,84080,VIC
+Ballan (Fiskville),87005,VIC
+Ballarat Aerodrome,89002,VIC
+Beechworth Composite,82001,VIC
+Beechworth Woolshed,82137,VIC
+Benalla (Shadforth Street),82002,VIC
+Bendigo Airport,81123,VIC
+Bendigo Prison,81003,VIC
+Bendoc Forestry,84077,VIC
+Beulah,77004,VIC
+Birchip Post Office,77007,VIC
+Blackwood (Armstrong),87159,VIC
+Bogong,83004,VIC
+Bonegilla,82100,VIC
+Boort,80002,VIC
+Bright,83067,VIC
+Brighton Bowls Club,86033,VIC
+Bundoora (Latrobe University),86351,VIC
+Camperdown (Post Office),90011,VIC
+Cann River Forestry,84027,VIC
+Cape Nelson Lighthouse,90184,VIC
+Cape Nelson Lighthouse Comparison,90014,VIC
+Cape Otway Lighthouse,90015,VIC
+Cape Schanck Lighthouse,86017,VIC
+Carrum Downs,86245,VIC
+Casterton Showgrounds,90135,VIC
+Castlemaine Post Office,88014,VIC
+Castlemaine Prison,88110,VIC
+Cerberus,86361,VIC
+Charlton Post Office,80006,VIC
+Clunes,88015,VIC
+Colac (Elliminyt),90174,VIC
+Colac (Mount Gellibrand),90035,VIC
+Colac (Shire Office),90147,VIC
+Colac Airport,90022,VIC
+Coldstream,86383,VIC
+Combienbar Aws,84143,VIC
+Corryong (Parish Lane),82011,VIC
+Corryong Forestry,82066,VIC
+Cranbourne Botanic Gardens,86375,VIC
+Creswick,88019,VIC
+Dandenong,86224,VIC
+Dartmouth Reservoir,82076,VIC
+Donald,78072,VIC
+Donald Post Office,78011,VIC
+Dookie Agricultural College,81013,VIC
+Durdidwarrah,87021,VIC
+East Sale,85072,VIC
+East Sale Comparison,85298,VIC
+East Tarwin (Mirboo Pastoral Company),85227,VIC
+Echuca Aerodrome,80015,VIC
+Edi Upper,83083,VIC
+Eildon Fire Tower,88164,VIC
+Ellinbank Dairy Research Inst,85240,VIC
+Erica,85026,VIC
+Essendon Airport,86038,VIC
+Euroa,82016,VIC
+Falls Creek,83084,VIC
+Falls Creek Sec,83037,VIC
+Ferny Creek (Dunns Hill),86372,VIC
+Forrest State Forest,90040,VIC
+French Island (Mcleod Prison),86240,VIC
+Gabo Island Lighthouse,84016,VIC
+Geelong (Norlane),87117,VIC
+Geelong Salines (Moolap),87023,VIC
+Geelong Sec,87025,VIC
+Gelantipy,84142,VIC
+Gellibrand River Forestry,90134,VIC
+Goulburn River @ Shepparton,81044,VIC
+Grovedale (Geelong Airport),87163,VIC
+Hamilton,90044,VIC
+Hamilton Airport,90173,VIC
+Hamilton Research Station,90103,VIC
+Hazelwood Sec,85150,VIC
+Healesville (Badger Crk Sanctuary),86050,VIC
+Heathcote,88029,VIC
+Heywood Forestry,90048,VIC
+Horsham Aerodrome,79100,VIC
+Horsham Polkemmet Rd,79023,VIC
+Hotham Heights,83014,VIC
+Hunters Hill,82139,VIC
+Jeparit,78086,VIC
+Kerang,80023,VIC
+Kew,86060,VIC
+Kyabram,80091,VIC
+Kyneton,88123,VIC
+Kyneton Post Office,88036,VIC
+Lake Eildon,88023,VIC
+Lakes Entrance,84083,VIC
+Laverton Raaf,87031,VIC
+Laverton Salines,87032,VIC
+Lemnos (Campbells Soup),81084,VIC
+Lismore (Post Office),89018,VIC
+Longerenong,79028,VIC
+Lookout Hill,89105,VIC
+Lorne Pier Head,90148,VIC
+Macedon Forestry,87036,VIC
+Maffra Forestry Office,85055,VIC
+Maldon (Derby Hill),88041,VIC
+Mallacoota,84084,VIC
+Malmsbury,88111,VIC
+Mangalore Airport,88109,VIC
+Maribyrnong Explosives Factory,87038,VIC
+Maryborough,88043,VIC
+Melbourne Airport,86282,VIC
+Melbourne Regional Office,86071,VIC
+Merbein Csiro Research Station,76026,VIC
+Mildura Airport,76031,VIC
+Mildura Post Office,76077,VIC
+Mitta Mitta,82068,VIC
+Moondarra Reservoir,85199,VIC
+Moorabbin Airport,86077,VIC
+Mornington,86079,VIC
+Mortlake Racecourse,90176,VIC
+Morwell (Latrobe Valley Airport),85280,VIC
+Mount Baw Baw,85291,VIC
+Mount Beauty,83023,VIC
+Mount Buffalo Chalet,83073,VIC
+Mount Buller,83024,VIC
+Mount Dandenong Gtv9,86243,VIC
+Mount Eliza,86082,VIC
+Mount Hotham,83081,VIC
+Mount Hotham,83085,VIC
+Mount Moornapa,85296,VIC
+Mount Nowa Nowa,84144,VIC
+Myrtleford Post Office,82034,VIC
+Newbury,88133,VIC
+Nhill,78031,VIC
+Nhill Aerodrome,78015,VIC
+Noojee,85153,VIC
+Noojee (Slivar),85277,VIC
+Nowa Nowa,84028,VIC
