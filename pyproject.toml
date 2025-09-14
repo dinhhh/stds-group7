@@ -24,7 +24,6 @@ dependencies = [
     "python-dotenv",
     "numpy (>=2.3.3,<3.0.0)",
 ]
-requires-python = "==3.13.5"
 
 [tool.poetry]
 name = "group_7___statistical_thinking_for_data_science"
