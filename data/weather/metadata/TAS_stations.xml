@@ -1,0 +1,174 @@
+<div class="optgroup" data-group="TAS">
+	<div class="option" data-selectable="" data-value="92001">
+		<span class="stationName">Apslawn</span>
+		<span class="stationId">92001</span>
+	</div>
+	<div class="option" data-selectable="" data-value="94001">
+		<span class="stationName">Apsley (Parki)</span>
+		<span class="stationId">94001</span>
+	</div>
+	<div class="option" data-selectable="" data-value="91153">
+		<span class="stationName">Barrington Post Office</span>
+		<span class="stationId">91153</span>
+	</div>
+	<div class="option" data-selectable="" data-value="91001">
+		<span class="stationName">Beaconsfield (Mine &amp; Heritage Centre)</span>
+		<span class="stationId">91001</span>
+	</div>
+	<div class="option" data-selectable="" data-value="91262">
+		<span class="stationName">Bell Bay (Temco)</span>
+		<span class="stationId">91262</span>
+	</div>
+	<div class="option" data-selectable="" data-value="92003">
+		<span class="stationName">Bicheno (Council Depot)</span>
+		<span class="stationId">92003</span>
+	</div>
+	<div class="option" data-selectable="" data-value="95003">
+		<span class="stationName">Bushy Park (Bushy Park Estates)</span>
+		<span class="stationId">95003</span>
+	</div>
+	<div class="option" data-selectable="" data-value="99000">
+		<span class="stationName">Cape Barren Island (Long Beach)</span>
+		<span class="stationId">99000</span>
+	</div>
+	<div class="option" data-selectable="" data-value="98000">
+		<span class="stationName">City Of Melbourne Bay</span>
+		<span class="stationId">98000</span>
+	</div>
+	<div class="option" data-selectable="" data-value="92053">
+		<span class="stationName">Coles Bay (Freycinet)</span>
+		<span class="stationId">92053</span>
+	</div>
+	<div class="option" data-selectable="" data-value="91019">
+		<span class="stationName">Connorville (Lake River)</span>
+		<span class="stationId">91019</span>
+	</div>
+	<div class="option" data-selectable="" data-value="91021">
+		<span class="stationName">Cressy House</span>
+		<span class="stationId">91021</span>
+	</div>
+	<div class="option" data-selectable="" data-value="99001">
+		<span class="stationName">Deal Island</span>
+		<span class="stationId">99001</span>
+	</div>
+	<div class="option" data-selectable="" data-value="91126">
+		<span class="stationName">Devonport Airport</span>
+		<span class="stationId">91126</span>
+	</div>
+	<div class="option" data-selectable="" data-value="94020">
+		<span class="stationName">Dover</span>
+		<span class="stationId">94020</span>
+	</div>
+	<div class="option" data-selectable="" data-value="94071">
+		<span class="stationName">Eaglehawk Neck (Jetty Road)</span>
+		<span class="stationId">94071</span>
+	</div>
+	<div class="option" data-selectable="" data-value="91171">
+		<span class="stationName">East Sassafras (Elphin Grove)</span>
+		<span class="stationId">91171</span>
+	</div>
+	<div class="option" data-selectable="" data-value="91032">
+		<span class="stationName">Epping Forest (Forton)</span>
+		<span class="stationId">91032</span>
+	</div>
+	<div class="option" data-selectable="" data-value="99005">
+		<span class="stationName">Flinders Island Airport</span>
+		<span class="stationId">99005</span>
+	</div>
+	<div class="option" data-selectable="" data-value="92011">
+		<span class="stationName">Gladstone (Old Post Office)</span>
+		<span class="stationId">92011</span>
+	</div>
+	<div class="option" data-selectable="" data-value="94025">
+		<span class="stationName">Glenorchy (Glenorchy Reservoir)</span>
+		<span class="stationId">94025</span>
+	</div>
+	<div class="option" data-selectable="" data-value="91185">
+		<span class="stationName">Hagley (Fairbank)</span>
+		<span class="stationId">91185</span>
+	</div>
+	<div class="option" data-selectable="" data-value="91041">
+		<span class="stationName">Hillwood (Hillwoodville)</span>
+		<span class="stationId">91041</span>
+	</div>
+	<div class="option" data-selectable="" data-value="94029">
+		<span class="stationName">Hobart (Ellerslie Road)</span>
+		<span class="stationId">94029</span>
+	</div>
+	<div class="option" data-selectable="" data-value="94030">
+		<span class="stationName">Hobart Botanical Gardens</span>
+		<span class="stationId">94030</span>
+	</div>
+	<div class="option" data-selectable="" data-value="92017">
+		<span class="stationName">Kellevie</span>
+		<span class="stationId">92017</span>
+	</div>
+	<div class="option" data-selectable="" data-value="91149">
+		<span class="stationName">Kimberley (Siding)</span>
+		<span class="stationId">91149</span>
+	</div>
+	<div class="option" data-selectable="" data-value="98017">
+		<span class="stationName">King Island Airport</span>
+		<span class="stationId">98017</span>
+	</div>
+	<div class="option" data-selectable="" data-value="92045">
+		<span class="stationName">Larapuna (Eddystone Point)</span>
+		<span class="stationId">92045</span>
+	</div>
+	<div class="option" data-selectable="" data-value="91072">
+		<span class="stationName">Launceston (Kings Meadows)</span>
+		<span class="stationId">91072</span>
+	</div>
+	<div class="option" data-selectable="" data-value="91237">
+		<span class="stationName">Launceston (Ti Tree Bend)</span>
+		<span class="stationId">91237</span>
+	</div>
+	<div class="option" data-selectable="" data-value="94097">
+		<span class="stationName">Levendale</span>
+		<span class="stationId">94097</span>
+	</div>
+	<div class="option" data-selectable="" data-value="92020">
+		<span class="stationName">Lewis Hill (St Pauls River)</span>
+		<span class="stationId">92020</span>
+	</div>
+	<div class="option" data-selectable="" data-value="94039">
+		<span class="stationName">Lunawanna</span>
+		<span class="stationId">94039</span>
+	</div>
+	<div class="option" data-selectable="" data-value="94040">
+		<span class="stationName">Lymington (Fattys Lane)</span>
+		<span class="stationId">94040</span>
+	</div>
+	<div class="option" data-selectable="" data-value="94125">
+		<span class="stationName">Margate (Sunnyside)</span>
+		<span class="stationId">94125</span>
+	</div>
+	<div class="option" data-selectable="" data-value="92010">
+		<span class="stationName">Maria Island (Darlington)</span>
+		<span class="stationId">92010</span>
+	</div>
+	<div class="option" data-selectable="" data-value="91223">
+		<span class="stationName">Marrawah</span>
+		<span class="stationId">91223</span>
+	</div>
+	<div class="option" data-selectable="" data-value="91060">
+		<span class="stationName">Mawbanna (Mawbanna Road)</span>
+		<span class="stationId">91060</span>
+	</div>
+	<div class="option" data-selectable="" data-value="99014">
+		<span class="stationName">Memana (Babel Farm)</span>
+		<span class="stationId">99014</span>
+	</div>
+	<div class="option" data-selectable="" data-value="94043">
+		<span class="stationName">Middleton Post Office</span>
+		<span class="stationId">94043</span>
+	</div>
+	<div class="option" data-selectable="" data-value="96046">
+		<span class="stationName">Miena Dam</span>
+		<span class="stationId">96046</span>
+	</div>
+	<div class="option" data-selectable="" data-value="94082">
+		<span class="stationName">Mount Rumney (Mount Rumney Road)</span>
+		<span class="stationId">94082</span>
+	</div>
+</div>
