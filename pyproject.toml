@@ -15,6 +15,7 @@ python = ">=3.11,<4.0"
 numpy = ">=1.26,<3.0"
 python-dotenv = "*"
 pip = "*"
+certifi = "^2025.8.3"
 
 [tool.poetry.group.dev.dependencies]
 black = "*"
