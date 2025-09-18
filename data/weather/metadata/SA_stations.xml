@@ -1,0 +1,590 @@
+<div class="optgroup" data-group="SA">
+	<div class="option" data-selectable="" data-value="23005">
+		<span class="stationName">Adelaide (Glen Osmond)</span>
+		<span class="stationId">23005</span>
+	</div>
+	<div class="option" data-selectable="" data-value="23096">
+		<span class="stationName">Adelaide (Hope Valley Reservoir)</span>
+		<span class="stationId">23096</span>
+	</div>
+	<div class="option" data-selectable="" data-value="23023">
+		<span class="stationName">Adelaide (Salisbury Bowling Club)</span>
+		<span class="stationId">23023</span>
+	</div>
+	<div class="option" data-selectable="" data-value="23034">
+		<span class="stationName">Adelaide Airport</span>
+		<span class="stationId">23034</span>
+	</div>
+	<div class="option" data-selectable="" data-value="25000">
+		<span class="stationName">Alawoona</span>
+		<span class="stationId">25000</span>
+	</div>
+	<div class="option" data-selectable="" data-value="25018">
+		<span class="stationName">Alawoona (Schells Well)</span>
+		<span class="stationId">25018</span>
+	</div>
+	<div class="option" data-selectable="" data-value="23817">
+		<span class="stationName">Aldgate</span>
+		<span class="stationId">23817</span>
+	</div>
+	<div class="option" data-selectable="" data-value="16065">
+		<span class="stationName">Andamooka</span>
+		<span class="stationId">16065</span>
+	</div>
+	<div class="option" data-selectable="" data-value="21121">
+		<span class="stationName">Apoinga (Wilivere)</span>
+		<span class="stationId">21121</span>
+	</div>
+	<div class="option" data-selectable="" data-value="19001">
+		<span class="stationName">Appila</span>
+		<span class="stationId">19001</span>
+	</div>
+	<div class="option" data-selectable="" data-value="22033">
+		<span class="stationName">Ardrossan (Vitana)</span>
+		<span class="stationId">22033</span>
+	</div>
+	<div class="option" data-selectable="" data-value="17099">
+		<span class="stationName">Arkaroola</span>
+		<span class="stationId">17099</span>
+	</div>
+	<div class="option" data-selectable="" data-value="18001">
+		<span class="stationName">Arno Bay</span>
+		<span class="stationId">18001</span>
+	</div>
+	<div class="option" data-selectable="" data-value="23803">
+		<span class="stationName">Ashton Co-Op</span>
+		<span class="stationId">23803</span>
+	</div>
+	<div class="option" data-selectable="" data-value="24501">
+		<span class="stationName">Australia Plains</span>
+		<span class="stationId">24501</span>
+	</div>
+	<div class="option" data-selectable="" data-value="21002">
+		<span class="stationName">Balaklava</span>
+		<span class="stationId">21002</span>
+	</div>
+	<div class="option" data-selectable="" data-value="21104">
+		<span class="stationName">Balaklava (Wanappe)</span>
+		<span class="stationId">21104</span>
+	</div>
+	<div class="option" data-selectable="" data-value="23704">
+		<span class="stationName">Belair (State Flora Nursery)</span>
+		<span class="stationId">23704</span>
+	</div>
+	<div class="option" data-selectable="" data-value="24025">
+		<span class="stationName">Berri</span>
+		<span class="stationId">24025</span>
+	</div>
+	<div class="option" data-selectable="" data-value="23705">
+		<span class="stationName">Birdwood</span>
+		<span class="stationId">23705</span>
+	</div>
+	<div class="option" data-selectable="" data-value="24564">
+		<span class="stationName">Blanchetown Lock 1</span>
+		<span class="stationId">24564</span>
+	</div>
+	<div class="option" data-selectable="" data-value="17014">
+		<span class="stationName">Blinman</span>
+		<span class="stationId">17014</span>
+	</div>
+	<div class="option" data-selectable="" data-value="17097">
+		<span class="stationName">Blinman (Angorichina)</span>
+		<span class="stationId">17097</span>
+	</div>
+	<div class="option" data-selectable="" data-value="17041">
+		<span class="stationName">Blinman (Narrina)</span>
+		<span class="stationId">17041</span>
+	</div>
+	<div class="option" data-selectable="" data-value="21003">
+		<span class="stationName">Blyth</span>
+		<span class="stationId">21003</span>
+	</div>
+	<div class="option" data-selectable="" data-value="19006">
+		<span class="stationName">Booleroo Centre</span>
+		<span class="stationId">19006</span>
+	</div>
+	<div class="option" data-selectable="" data-value="19047">
+		<span class="stationName">Booleroo Centre (Willowie)</span>
+		<span class="stationId">19047</span>
+	</div>
+	<div class="option" data-selectable="" data-value="26058">
+		<span class="stationName">Bordertown (Beeamma Section 95)</span>
+		<span class="stationId">26058</span>
+	</div>
+	<div class="option" data-selectable="" data-value="24504">
+		<span class="stationName">Bower</span>
+		<span class="stationId">24504</span>
+	</div>
+	<div class="option" data-selectable="" data-value="21106">
+		<span class="stationName">Bowillia</span>
+		<span class="stationId">21106</span>
+	</div>
+	<div class="option" data-selectable="" data-value="20043">
+		<span class="stationName">Braemar</span>
+		<span class="stationId">20043</span>
+	</div>
+	<div class="option" data-selectable="" data-value="21010">
+		<span class="stationName">Brinkworth (Bungaree)</span>
+		<span class="stationId">21010</span>
+	</div>
+	<div class="option" data-selectable="" data-value="17106">
+		<span class="stationName">Broughman'S Gate House (Quinyambie)</span>
+		<span class="stationId">17106</span>
+	</div>
+	<div class="option" data-selectable="" data-value="19008">
+		<span class="stationName">Bruce</span>
+		<span class="stationId">19008</span>
+	</div>
+	<div class="option" data-selectable="" data-value="18172">
+		<span class="stationName">Buckleboo (Hi-View)</span>
+		<span class="stationId">18172</span>
+	</div>
+	<div class="option" data-selectable="" data-value="21100">
+		<span class="stationName">Burra (Leighton)</span>
+		<span class="stationId">21100</span>
+	</div>
+	<div class="option" data-selectable="" data-value="21077">
+		<span class="stationName">Burra Community School</span>
+		<span class="stationId">21077</span>
+	</div>
+	<div class="option" data-selectable="" data-value="24508">
+		<span class="stationName">Callington</span>
+		<span class="stationId">24508</span>
+	</div>
+	<div class="option" data-selectable="" data-value="24513">
+		<span class="stationName">Cambrai (Kongolia)</span>
+		<span class="stationId">24513</span>
+	</div>
+	<div class="option" data-selectable="" data-value="22803">
+		<span class="stationName">Cape Willoughby</span>
+		<span class="stationId">22803</span>
+	</div>
+	<div class="option" data-selectable="" data-value="18033">
+		<span class="stationName">Ceduna (Goode)</span>
+		<span class="stationId">18033</span>
+	</div>
+	<div class="option" data-selectable="" data-value="18047">
+		<span class="stationName">Ceduna (Maltee)</span>
+		<span class="stationId">18047</span>
+	</div>
+	<div class="option" data-selectable="" data-value="18182">
+		<span class="stationName">Ceduna (Uworra)</span>
+		<span class="stationId">18182</span>
+	</div>
+	<div class="option" data-selectable="" data-value="18012">
+		<span class="stationName">Ceduna Amo</span>
+		<span class="stationId">18012</span>
+	</div>
+	<div class="option" data-selectable="" data-value="23709">
+		<span class="stationName">Cherry Gardens</span>
+		<span class="stationId">23709</span>
+	</div>
+	<div class="option" data-selectable="" data-value="21075">
+		<span class="stationName">Clare (Calcannia)</span>
+		<span class="stationId">21075</span>
+	</div>
+	<div class="option" data-selectable="" data-value="21025">
+		<span class="stationName">Clare (Hill River)</span>
+		<span class="stationId">21025</span>
+	</div>
+	<div class="option" data-selectable="" data-value="23710">
+		<span class="stationName">Clarendon</span>
+		<span class="stationId">23710</span>
+	</div>
+	<div class="option" data-selectable="" data-value="18014">
+		<span class="stationName">Cleve</span>
+		<span class="stationId">18014</span>
+	</div>
+	<div class="option" data-selectable="" data-value="18184">
+		<span class="stationName">Cleve (Ningana)</span>
+		<span class="stationId">18184</span>
+	</div>
+	<div class="option" data-selectable="" data-value="18116">
+		<span class="stationName">Cleve Aerodrome</span>
+		<span class="stationId">18116</span>
+	</div>
+	<div class="option" data-selectable="" data-value="20053">
+		<span class="stationName">Cockburn (Tepco)</span>
+		<span class="stationId">20053</span>
+	</div>
+	<div class="option" data-selectable="" data-value="25502">
+		<span class="stationName">Cooke Plains</span>
+		<span class="stationId">25502</span>
+	</div>
+	<div class="option" data-selectable="" data-value="26091">
+		<span class="stationName">Coonawarra</span>
+		<span class="stationId">26091</span>
+	</div>
+	<div class="option" data-selectable="" data-value="18019">
+		<span class="stationName">Coulta</span>
+		<span class="stationId">18019</span>
+	</div>
+	<div class="option" data-selectable="" data-value="18176">
+		<span class="stationName">Cowell (Winter Springs)</span>
+		<span class="stationId">18176</span>
+	</div>
+	<div class="option" data-selectable="" data-value="19061">
+		<span class="stationName">Cradock (Yednalue)</span>
+		<span class="stationId">19061</span>
+	</div>
+	<div class="option" data-selectable="" data-value="21016">
+		<span class="stationName">Crystal Brook</span>
+		<span class="stationId">21016</span>
+	</div>
+	<div class="option" data-selectable="" data-value="23731">
+		<span class="stationName">Cudlee Creek (Millbrook Reservoir)</span>
+		<span class="stationId">23731</span>
+	</div>
+	<div class="option" data-selectable="" data-value="18023">
+		<span class="stationName">Cummins</span>
+		<span class="stationId">18023</span>
+	</div>
+	<div class="option" data-selectable="" data-value="22003">
+		<span class="stationName">Curramulka</span>
+		<span class="stationId">22003</span>
+	</div>
+	<div class="option" data-selectable="" data-value="18024">
+		<span class="stationName">Darke Peak</span>
+		<span class="stationId">18024</span>
+	</div>
+	<div class="option" data-selectable="" data-value="19014">
+		<span class="stationName">Dawson (Anda-Vale)</span>
+		<span class="stationId">19014</span>
+	</div>
+	<div class="option" data-selectable="" data-value="24031">
+		<span class="stationName">Duffield Ramco</span>
+		<span class="stationId">24031</span>
+	</div>
+	<div class="option" data-selectable="" data-value="24509">
+		<span class="stationName">Dutton - Section 228</span>
+		<span class="stationId">24509</span>
+	</div>
+	<div class="option" data-selectable="" data-value="23083">
+		<span class="stationName">Edinburgh Raaf</span>
+		<span class="stationId">23083</span>
+	</div>
+	<div class="option" data-selectable="" data-value="18069">
+		<span class="stationName">Elliston</span>
+		<span class="stationId">18069</span>
+	</div>
+	<div class="option" data-selectable="" data-value="18189">
+		<span class="stationName">Elliston (Lambing Station)</span>
+		<span class="stationId">18189</span>
+	</div>
+	<div class="option" data-selectable="" data-value="24511">
+		<span class="stationName">Eudunda</span>
+		<span class="stationId">24511</span>
+	</div>
+	<div class="option" data-selectable="" data-value="24555">
+		<span class="stationName">Eudunda (Moondah)</span>
+		<span class="stationId">24555</span>
+	</div>
+	<div class="option" data-selectable="" data-value="21019">
+		<span class="stationName">Farrell Flat</span>
+		<span class="stationId">21019</span>
+	</div>
+	<div class="option" data-selectable="" data-value="26007">
+		<span class="stationName">Frances</span>
+		<span class="stationId">26007</span>
+	</div>
+	<div class="option" data-selectable="" data-value="21020">
+		<span class="stationName">Georgetown</span>
+		<span class="stationId">21020</span>
+	</div>
+	<div class="option" data-selectable="" data-value="25506">
+		<span class="stationName">Geranium</span>
+		<span class="stationId">25506</span>
+	</div>
+	<div class="option" data-selectable="" data-value="21021">
+		<span class="stationName">Gladstone</span>
+		<span class="stationId">21021</span>
+	</div>
+	<div class="option" data-selectable="" data-value="21022">
+		<span class="stationName">Gulnare</span>
+		<span class="stationId">21022</span>
+	</div>
+	<div class="option" data-selectable="" data-value="23720">
+		<span class="stationName">Hahndorf</span>
+		<span class="stationId">23720</span>
+	</div>
+	<div class="option" data-selectable="" data-value="21062">
+		<span class="stationName">Hallett (Old Canowie)</span>
+		<span class="stationId">21062</span>
+	</div>
+	<div class="option" data-selectable="" data-value="19108">
+		<span class="stationName">Hammond (Coonatto)</span>
+		<span class="stationId">19108</span>
+	</div>
+	<div class="option" data-selectable="" data-value="23721">
+		<span class="stationName">Happy Valley Reservoir</span>
+		<span class="stationId">23721</span>
+	</div>
+	<div class="option" data-selectable="" data-value="23722">
+		<span class="stationName">Harrogate</span>
+		<span class="stationId">23722</span>
+	</div>
+	<div class="option" data-selectable="" data-value="23822">
+		<span class="stationName">Hartley (Pine Hill)</span>
+		<span class="stationId">23822</span>
+	</div>
+	<div class="option" data-selectable="" data-value="19017">
+		<span class="stationName">Hawker</span>
+		<span class="stationId">19017</span>
+	</div>
+	<div class="option" data-selectable="" data-value="19018">
+		<span class="stationName">Hawker (Holowiliena)</span>
+		<span class="stationId">19018</span>
+	</div>
+	<div class="option" data-selectable="" data-value="19046">
+		<span class="stationName">Hawker (Warcowie)</span>
+		<span class="stationId">19046</span>
+	</div>
+	<div class="option" data-selectable="" data-value="16034">
+		<span class="stationName">Hiltaba</span>
+		<span class="stationId">16034</span>
+	</div>
+	<div class="option" data-selectable="" data-value="21072">
+		<span class="stationName">Huddleston (Willow Ponds)</span>
+		<span class="stationId">21072</span>
+	</div>
+	<div class="option" data-selectable="" data-value="23723">
+		<span class="stationName">Inman Valley</span>
+		<span class="stationId">23723</span>
+	</div>
+	<div class="option" data-selectable="" data-value="18034">
+		<span class="stationName">Iron Knob</span>
+		<span class="stationId">18034</span>
+	</div>
+	<div class="option" data-selectable="" data-value="18031">
+		<span class="stationName">Iron Knob (Gilles Downs)</span>
+		<span class="stationId">18031</span>
+	</div>
+	<div class="option" data-selectable="" data-value="21027">
+		<span class="stationName">Jamestown</span>
+		<span class="stationId">21027</span>
+	</div>
+	<div class="option" data-selectable="" data-value="23724">
+		<span class="stationName">Kanmantoo</span>
+		<span class="stationId">23724</span>
+	</div>
+	<div class="option" data-selectable="" data-value="23307">
+		<span class="stationName">Kapunda</span>
+		<span class="stationId">23307</span>
+	</div>
+	<div class="option" data-selectable="" data-value="18036">
+		<span class="stationName">Karcultaby</span>
+		<span class="stationId">18036</span>
+	</div>
+	<div class="option" data-selectable="" data-value="25006">
+		<span class="stationName">Karoonda</span>
+		<span class="stationId">25006</span>
+	</div>
+	<div class="option" data-selectable="" data-value="25507">
+		<span class="stationName">Keith</span>
+		<span class="stationId">25507</span>
+	</div>
+	<div class="option" data-selectable="" data-value="23758">
+		<span class="stationName">Kersbrook (Mabenjo)</span>
+		<span class="stationId">23758</span>
+	</div>
+	<div class="option" data-selectable="" data-value="23725">
+		<span class="stationName">Keyneton</span>
+		<span class="stationId">23725</span>
+	</div>
+	<div class="option" data-selectable="" data-value="18040">
+		<span class="stationName">Kimba</span>
+		<span class="stationId">18040</span>
+	</div>
+	<div class="option" data-selectable="" data-value="18193">
+		<span class="stationName">Kimba (Cortlinye)</span>
+		<span class="stationId">18193</span>
+	</div>
+	<div class="option" data-selectable="" data-value="18037">
+		<span class="stationName">Kimba (Curtinye)</span>
+		<span class="stationId">18037</span>
+	</div>
+	<div class="option" data-selectable="" data-value="22808">
+		<span class="stationName">Kingscote (Karinga)</span>
+		<span class="stationId">22808</span>
+	</div>
+	<div class="option" data-selectable="" data-value="26012">
+		<span class="stationName">Kingston Se</span>
+		<span class="stationId">26012</span>
+	</div>
+	<div class="option" data-selectable="" data-value="16021">
+		<span class="stationName">Kokatha</span>
+		<span class="stationId">16021</span>
+	</div>
+	<div class="option" data-selectable="" data-value="21029">
+		<span class="stationName">Koolunga</span>
+		<span class="stationId">21029</span>
+	</div>
+	<div class="option" data-selectable="" data-value="18044">
+		<span class="stationName">Kyancutta</span>
+		<span class="stationId">18044</span>
+	</div>
+	<div class="option" data-selectable="" data-value="24515">
+		<span class="stationName">Langhorne Creek</span>
+		<span class="stationId">24515</span>
+	</div>
+	<div class="option" data-selectable="" data-value="21031">
+		<span class="stationName">Laura</span>
+		<span class="stationId">21031</span>
+	</div>
+	<div class="option" data-selectable="" data-value="23726">
+		<span class="stationName">Lobethal</span>
+		<span class="stationId">23726</span>
+	</div>
+	<div class="option" data-selectable="" data-value="18046">
+		<span class="stationName">Lock</span>
+		<span class="stationId">18046</span>
+	</div>
+	<div class="option" data-selectable="" data-value="18165">
+		<span class="stationName">Lock (Terrah Winds)</span>
+		<span class="stationId">18165</span>
+	</div>
+	<div class="option" data-selectable="" data-value="25039">
+		<span class="stationName">Lowaldie</span>
+		<span class="stationId">25039</span>
+	</div>
+	<div class="option" data-selectable="" data-value="24013">
+		<span class="stationName">Loxton (Pyap)</span>
+		<span class="stationId">24013</span>
+	</div>
+	<div class="option" data-selectable="" data-value="24024">
+		<span class="stationName">Loxton Research Centre</span>
+		<span class="stationId">24024</span>
+	</div>
+	<div class="option" data-selectable="" data-value="26069">
+		<span class="stationName">Lucindale (Greenvale)</span>
+		<span class="stationId">26069</span>
+	</div>
+	<div class="option" data-selectable="" data-value="26016">
+		<span class="stationName">Lucindale Post Office</span>
+		<span class="stationId">26016</span>
+	</div>
+	<div class="option" data-selectable="" data-value="24008">
+		<span class="stationName">Lyrup</span>
+		<span class="stationId">24008</span>
+	</div>
+	<div class="option" data-selectable="" data-value="22008">
+		<span class="stationName">Maitland</span>
+		<span class="stationId">22008</span>
+	</div>
+	<div class="option" data-selectable="" data-value="22010">
+		<span class="stationName">Maitland (Kilkerran)</span>
+		<span class="stationId">22010</span>
+	</div>
+	<div class="option" data-selectable="" data-value="20013">
+		<span class="stationName">Manna Hill</span>
+		<span class="stationId">20013</span>
+	</div>
+	<div class="option" data-selectable="" data-value="21076">
+		<span class="stationName">Manoora (Cooinda)</span>
+		<span class="stationId">21076</span>
+	</div>
+	<div class="option" data-selectable="" data-value="17076">
+		<span class="stationName">Marree (Clayton)</span>
+		<span class="stationId">17076</span>
+	</div>
+	<div class="option" data-selectable="" data-value="17024">
+		<span class="stationName">Marree (Farina)</span>
+		<span class="stationId">17024</span>
+	</div>
+	<div class="option" data-selectable="" data-value="19111">
+		<span class="stationName">Martins Well</span>
+		<span class="stationId">19111</span>
+	</div>
+	<div class="option" data-selectable="" data-value="19042">
+		<span class="stationName">Melrose (Para Gums)</span>
+		<span class="stationId">19042</span>
+	</div>
+	<div class="option" data-selectable="" data-value="24518">
+		<span class="stationName">Meningie</span>
+		<span class="stationId">24518</span>
+	</div>
+	<div class="option" data-selectable="" data-value="25556">
+		<span class="stationName">Meningie (Green Plains)</span>
+		<span class="stationId">25556</span>
+	</div>
+	<div class="option" data-selectable="" data-value="25523">
+		<span class="stationName">Meningie (Naranga)</span>
+		<span class="stationId">25523</span>
+	</div>
+	<div class="option" data-selectable="" data-value="24519">
+		<span class="stationName">Milang</span>
+		<span class="stationId">24519</span>
+	</div>
+	<div class="option" data-selectable="" data-value="24576">
+		<span class="stationName">Milang (Navarino)</span>
+		<span class="stationId">24576</span>
+	</div>
+	<div class="option" data-selectable="" data-value="26018">
+		<span class="stationName">Millicent</span>
+		<span class="stationId">26018</span>
+	</div>
+	<div class="option" data-selectable="" data-value="22009">
+		<span class="stationName">Minlaton</span>
+		<span class="stationId">22009</span>
+	</div>
+	<div class="option" data-selectable="" data-value="22036">
+		<span class="stationName">Minlaton (Eversley)</span>
+		<span class="stationId">22036</span>
+	</div>
+	<div class="option" data-selectable="" data-value="20049">
+		<span class="stationName">Mooleulooloo</span>
+		<span class="stationId">20049</span>
+	</div>
+	<div class="option" data-selectable="" data-value="22011">
+		<span class="stationName">Moonta</span>
+		<span class="stationId">22011</span>
+	</div>
+	<div class="option" data-selectable="" data-value="19025">
+		<span class="stationName">Morchard (The Rocks)</span>
+		<span class="stationId">19025</span>
+	</div>
+	<div class="option" data-selectable="" data-value="24578">
+		<span class="stationName">Morgan (Brenda Park Station)</span>
+		<span class="stationId">24578</span>
+	</div>
+	<div class="option" data-selectable="" data-value="23733">
+		<span class="stationName">Mount Barker</span>
+		<span class="stationId">23733</span>
+	</div>
+	<div class="option" data-selectable="" data-value="16082">
+		<span class="stationName">Mount Barry Station</span>
+		<span class="stationId">16082</span>
+	</div>
+	<div class="option" data-selectable="" data-value="23734">
+		<span class="stationName">Mount Bold Reservoir</span>
+		<span class="stationId">23734</span>
+	</div>
+	<div class="option" data-selectable="" data-value="21034">
+		<span class="stationName">Mount Bryan</span>
+		<span class="stationId">21034</span>
+	</div>
+	<div class="option" data-selectable="" data-value="23735">
+		<span class="stationName">Mount Compass</span>
+		<span class="stationId">23735</span>
+	</div>
+	<div class="option" data-selectable="" data-value="26021">
+		<span class="stationName">Mount Gambier Aero</span>
+		<span class="stationId">26021</span>
+	</div>
+	<div class="option" data-selectable="" data-value="18171">
+		<span class="stationName">Mount Hope (Fairview)</span>
+		<span class="stationId">18171</span>
+	</div>
+	<div class="option" data-selectable="" data-value="23810">
+		<span class="stationName">Mount Lofty (Cleland Conservation Park)</span>
+		<span class="stationId">23810</span>
+	</div>
+	<div class="option" data-selectable="" data-value="26067">
+		<span class="stationName">Mount Schank (Jethia)</span>
+		<span class="stationId">26067</span>
+	</div>
+	<div class="option" data-selectable="" data-value="18057">
+		<span class="stationName">Mount Wudinna</span>
+		<span class="stationId">18057</span>
+	</div>
+</div>
