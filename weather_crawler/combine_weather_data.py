@@ -107,7 +107,7 @@ def calculate_average_weather_data():
             # Add all records for this station-date to the state-date group
             state_date_data[(state, date)].extend(records)
         
-        with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
+        with open(output_file, 'a', newline='', encoding='utf-8') as csvfile:
             fieldnames = ['state', 'YYYY-MM-DD', 'daily_rain', 'max_temp', 'min_temp', 'radiation', 'rh_tmax', 'rh_tmin']
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
             writer.writeheader()

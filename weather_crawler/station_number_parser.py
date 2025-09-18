@@ -75,6 +75,8 @@ if __name__ == "__main__":
             print(f"Deleted existing file: {stations_csv_path}")
         except OSError as e:
             print(f"Error deleting file {stations_csv_path}: {e}")
-    parse_stations(state="NSW", xml_file_path="data/weather/metadata/NSW_stations.xml")
-    parse_stations(state="QLD", xml_file_path="data/weather/metadata/QLD_stations.xml")
-    parse_stations(state="VIC", xml_file_path="data/weather/metadata/VIC_stations.xml")
+    # parse_stations(state="NSW", xml_file_path="data/weather/metadata/NSW_stations.xml")
+    # parse_stations(state="QLD", xml_file_path="data/weather/metadata/QLD_stations.xml")
+    # parse_stations(state="VIC", xml_file_path="data/weather/metadata/VIC_stations.xml")
+    parse_stations(state="SA", xml_file_path="data/weather/metadata/SA_stations.xml")
+    parse_stations(state="TAS", xml_file_path="data/weather/metadata/TAS_stations.xml")
